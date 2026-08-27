@@ -58,26 +58,27 @@ The project is built on a relational banking dataset comprising 6 core cleaned t
 │   ├── page3_loans.png
 │   └── page4_branch.png
 └── README.md
-
-
-📊 Dashboard Modules
-1. Executive Overview
-High-level summary of total deposits (₹317.80B), total loans (₹198.44B), and transaction volume (₹147.22B).
-Transaction channel distribution: Mobile App (22.25%), ATM (22.20%), UPI (11.09%), Branch (11.07%).
-4-year transaction trajectory (2022–2025 surge).
-2. Customer Intelligence & Demographics
-Age segmentation (Core base: 41–60 years with 34.35K customers; under-25 with 10.58K).
-Gender balance and card type distribution (Debit, Credit, Prepaid).
-Top deposit-generating accounts and average balance tiering.
-3. Loan Portfolio & Risk Analysis
-Lending exposure across 5 categories: Car, Personal, Business, Education, and Home Loans (~20% distribution each).
-Identification of default risk hotspots (Portfolio default rate: 16.57%; highest in Home Loans at 16.89% and Education Loans at 16.84%).
-4. Branch Performance & Operational Intelligence
-Staffing efficiency (optimized ratio of 10.0 employees per branch).
-Top cities by total balance led by Lucknow (₹21.69B), Indore (₹19.82B), and Chandigarh (₹19.81B).
-Compensation and headcount breakdown across designations (Assistant Managers, Managers, Officers, Senior Officers, Clerks, Relationship Managers).
-📐 Data Schema & Core DAX Measures
-
+```
+---
+## 📊 Dashboard Modules
+### 1. Executive Overview
+* High-level summary of total deposits (₹317.80B), total loans (₹198.44B), and transaction volume (₹147.22B).
+* Transaction channel distribution: Mobile App (22.25%), ATM (22.20%), UPI (11.09%), Branch (11.07%).
+* 4-year transaction trajectory (2022–2025 surge).
+### 2. Customer Intelligence & Demographics
+* Age segmentation (Core base: 41–60 years with 34.35K customers; under-25 with 10.58K).
+* Gender balance and card type distribution (Debit, Credit, Prepaid).
+* Top deposit-generating accounts and average balance tiering.
+### 3. Loan Portfolio & Risk Analysis
+* Lending exposure across 5 categories: Car, Personal, Business, Education, and Home Loans (~20% distribution each).
+* Identification of default risk hotspots (Portfolio default rate: 16.57%; highest in Home Loans at 16.89% and Education * Loans at 16.84%).
+### 4. Branch Performance & Operational Intelligence
+* Staffing efficiency (optimized ratio of 10.0 employees per branch).
+* Top cities by total balance led by Lucknow (₹21.69B), Indore (₹19.82B), and Chandigarh (₹19.81B).
+* Compensation and headcount breakdown across designations (Assistant Managers, Managers, Officers, Senior Officers, Clerks, Relationship Managers).
+---
+## 📐 Data Schema & Core DAX Measures
+```dax
 -- Default Rate Percentage
 Default Rate % = 
 DIVIDE(
@@ -108,20 +109,23 @@ CALCULATE(
         Both
     )
 )
+```
+---
+## 💡 Key Business Findings & Recommendations
+* **Transaction Gateway Reliability:** A 42.94% transaction success rate indicates critical drop-offs in payment switches/UPI paths that require infrastructure upgrades.
+* **Mortgage & Education Credit Underwriting:** Default rates peak in Home Loans (16.89%) and Education Loans (16.84%), suggesting a need for tighter collateral appraisal and co-signer verification.
+* **Youth Segment Acquisition:** Under-25 customers represent only 10.58% of the active customer base, presenting a growth opportunity for student-focused digital products.
+* **Branch Resource Optimization:** Capitalize on top deposit cities (Lucknow, Indore, Chandigarh) by expanding wealth management and premium banking services.
+---
+## 🚀 How to Run the Project Locally
 
-💡 Key Business Findings & Recommendations
-Transaction Gateway Reliability: A 42.94% transaction success rate indicates critical drop-offs in payment switches/UPI paths that require infrastructure upgrades.
-Mortgage & Education Credit Underwriting: Default rates peak in Home Loans (16.89%) and Education Loans (16.84%), suggesting a need for tighter collateral appraisal and co-signer verification.
-Youth Segment Acquisition: Under-25 customers represent only 10.58% of the active customer base, presenting a growth opportunity for student-focused digital products.
-Branch Resource Optimization: Capitalize on top deposit cities (Lucknow, Indore, Chandigarh) by expanding wealth management and premium banking services.
-
-How to Run the Project Locally
 1.Clone the repository:
 git clone https://github.com/pwnydvv98-DataAnalytics/Retail-Banking-Analytics.git
 
 2.Load Database:
-Import and execute the SQL scripts in MySQL Workbench.
+Open MySQL Workbench.
+Run the SQL scripts inside the sql work/ directory to set up schema and load data.
 
 3.Open Dashboard:
-Open power_bi/Retail_Banking_Suite.pbix in Power BI Desktop.
+Open power_bi/Final Bank Analysis Report.pbix in Power BI Desktop.
 Refresh data connection to point to your local MySQL instance.
