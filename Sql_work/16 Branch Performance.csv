@@ -1,0 +1,1001 @@
+Branch_ID,Branch_Name,City,State,Total_txn_Count,Total_Txn_Amount
+BR0543,"Surat Branch 543",Surat,Gujarat,2116,305878346.24
+BR0059,"Surat Branch 59",Surat,Gujarat,2036,301201637.78
+BR0751,"Pune Branch 751",Pune,Maharashtra,2060,299235150.08
+BR0935,"Chandigarh Branch 935",Chandigarh,Chandigarh,1996,295843057.22
+BR0657,"Jodhpur Branch 657",Jodhpur,Rajasthan,2038,295433037.28
+BR0441,"Udaipur Branch 441",Udaipur,Rajasthan,2024,294376286.00
+BR0816,"Mumbai Branch 816",Mumbai,Maharashtra,2016,292298898.32
+BR0252,"Chandigarh Branch 252",Chandigarh,Chandigarh,1918,285701010.10
+BR0448,"Pune Branch 448",Pune,Maharashtra,1906,274028998.10
+BR0392,"Pune Branch 392",Pune,Maharashtra,1952,273837430.02
+BR0225,"Pune Branch 225",Pune,Maharashtra,1086,165992756.41
+BR0386,"Chennai Branch 386",Chennai,"Tamil Nadu",1066,164037499.18
+BR0736,"Udaipur Branch 736",Udaipur,Rajasthan,1079,162790299.76
+BR0722,"Kolkata Branch 722",Kolkata,"West Bengal",1054,160736572.31
+BR0844,"Udaipur Branch 844",Udaipur,Rajasthan,1084,160667183.47
+BR0193,"Udaipur Branch 193",Udaipur,Rajasthan,1069,160464289.48
+BR0167,"Jaipur Branch 167",Jaipur,Rajasthan,1058,160146815.42
+BR0038,"Alwar Branch 38",Alwar,Rajasthan,1041,160098389.46
+BR0813,"Mumbai Branch 813",Mumbai,Maharashtra,1048,159929958.53
+BR0996,"Indore Branch 996",Indore,"Madhya Pradesh",1078,159928484.99
+BR0413,"Delhi Branch 413",Delhi,Delhi,1033,159483303.52
+BR0498,"Kota Branch 498",Kota,Rajasthan,1065,158905638.56
+BR0716,"Surat Branch 716",Surat,Gujarat,1077,158555486.77
+BR0599,"Ahmedabad Branch 599",Ahmedabad,Gujarat,1072,158367466.45
+BR0495,"Alwar Branch 495",Alwar,Rajasthan,1068,158253734.40
+BR0237,"Kolkata Branch 237",Kolkata,"West Bengal",1064,158176243.06
+BR0329,"Chandigarh Branch 329",Chandigarh,Chandigarh,1075,158014625.56
+BR0276,"Mumbai Branch 276",Mumbai,Maharashtra,1046,157908161.01
+BR0525,"Bengaluru Branch 525",Bengaluru,Karnataka,1065,157906448.20
+BR0105,"Chandigarh Branch 105",Chandigarh,Chandigarh,1043,157861111.07
+BR0574,"Kolkata Branch 574",Kolkata,"West Bengal",1048,157798870.12
+BR0109,"Delhi Branch 109",Delhi,Delhi,1053,157791383.28
+BR0482,"Ahmedabad Branch 482",Ahmedabad,Gujarat,1044,157466141.65
+BR0992,"Hyderabad Branch 992",Hyderabad,Telangana,1076,157254239.65
+BR0339,"Jaipur Branch 339",Jaipur,Rajasthan,1063,157169289.05
+BR0617,"Indore Branch 617",Indore,"Madhya Pradesh",1031,157118981.29
+BR0143,"Bhopal Branch 143",Bhopal,"Madhya Pradesh",1072,157079417.13
+BR0681,"Mumbai Branch 681",Mumbai,Maharashtra,1061,157075142.40
+BR0132,"Udaipur Branch 132",Udaipur,Rajasthan,1059,156964865.00
+BR0051,"Chandigarh Branch 51",Chandigarh,Chandigarh,1032,156777193.35
+BR0499,"Surat Branch 499",Surat,Gujarat,1059,156770452.09
+BR0052,"Surat Branch 52",Surat,Gujarat,1077,156450679.44
+BR0133,"Pune Branch 133",Pune,Maharashtra,1043,156443847.90
+BR0372,"Jodhpur Branch 372",Jodhpur,Rajasthan,1032,156315329.76
+BR0417,"Jodhpur Branch 417",Jodhpur,Rajasthan,1041,156308589.27
+BR0274,"Ahmedabad Branch 274",Ahmedabad,Gujarat,1061,156205716.02
+BR0831,"Chandigarh Branch 831",Chandigarh,Chandigarh,998,156165481.93
+BR0680,"Indore Branch 680",Indore,"Madhya Pradesh",1018,156040507.50
+BR0318,"Udaipur Branch 318",Udaipur,Rajasthan,1038,156013038.50
+BR0711,"Udaipur Branch 711",Udaipur,Rajasthan,1024,155994452.45
+BR0956,"Mumbai Branch 956",Mumbai,Maharashtra,1034,155992596.90
+BR0047,"Bengaluru Branch 47",Bengaluru,Karnataka,1050,155985067.85
+BR0885,"Chennai Branch 885",Chennai,"Tamil Nadu",1042,155981018.59
+BR0785,"Kota Branch 785",Kota,Rajasthan,1043,155954050.37
+BR0676,"Mumbai Branch 676",Mumbai,Maharashtra,1036,155911603.13
+BR0210,"Delhi Branch 210",Delhi,Delhi,1029,155845546.39
+BR0286,"Bengaluru Branch 286",Bengaluru,Karnataka,1039,155832606.15
+BR0922,"Bengaluru Branch 922",Bengaluru,Karnataka,1042,155779870.39
+BR0120,"Delhi Branch 120",Delhi,Delhi,1041,155588544.60
+BR0176,"Alwar Branch 176",Alwar,Rajasthan,1083,155539255.31
+BR0616,"Ahmedabad Branch 616",Ahmedabad,Gujarat,1058,155515551.14
+BR0549,"Indore Branch 549",Indore,"Madhya Pradesh",1043,155480488.81
+BR0401,"Chennai Branch 401",Chennai,"Tamil Nadu",1028,155452758.93
+BR0826,"Chandigarh Branch 826",Chandigarh,Chandigarh,1050,155434348.58
+BR0563,"Pune Branch 563",Pune,Maharashtra,1060,155419436.06
+BR0146,"Indore Branch 146",Indore,"Madhya Pradesh",1062,155401255.91
+BR0415,"Mumbai Branch 415",Mumbai,Maharashtra,1039,155400660.39
+BR0871,"Kolkata Branch 871",Kolkata,"West Bengal",1081,155360360.02
+BR0451,"Alwar Branch 451",Alwar,Rajasthan,1047,155345282.00
+BR0431,"Lucknow Branch 431",Lucknow,"Uttar Pradesh",1053,155312201.89
+BR0830,"Pune Branch 830",Pune,Maharashtra,1033,155254635.56
+BR0023,"Mumbai Branch 23",Mumbai,Maharashtra,1014,155216389.32
+BR0761,"Indore Branch 761",Indore,"Madhya Pradesh",1062,155189926.70
+BR0861,"Kolkata Branch 861",Kolkata,"West Bengal",1032,155165163.36
+BR0538,"Indore Branch 538",Indore,"Madhya Pradesh",1028,155162610.51
+BR0856,"Ahmedabad Branch 856",Ahmedabad,Gujarat,1045,155099171.56
+BR0728,"Bhopal Branch 728",Bhopal,"Madhya Pradesh",1033,155057159.04
+BR0157,"Bhopal Branch 157",Bhopal,"Madhya Pradesh",1014,155042457.79
+BR0994,"Jodhpur Branch 994",Jodhpur,Rajasthan,1024,155032637.35
+BR0510,"Delhi Branch 510",Delhi,Delhi,1036,155003485.39
+BR0267,"Udaipur Branch 267",Udaipur,Rajasthan,1037,154985726.65
+BR0473,"Bengaluru Branch 473",Bengaluru,Karnataka,1019,154951676.29
+BR0731,"Jaipur Branch 731",Jaipur,Rajasthan,1025,154796845.39
+BR0341,"Kolkata Branch 341",Kolkata,"West Bengal",1019,154769420.79
+BR0708,"Indore Branch 708",Indore,"Madhya Pradesh",1054,154755708.30
+BR0810,"Mumbai Branch 810",Mumbai,Maharashtra,1043,154731240.27
+BR0124,"Surat Branch 124",Surat,Gujarat,1045,154658234.54
+BR0247,"Bhopal Branch 247",Bhopal,"Madhya Pradesh",1017,154653909.96
+BR0590,"Chandigarh Branch 590",Chandigarh,Chandigarh,1011,154651809.64
+BR0674,"Surat Branch 674",Surat,Gujarat,1053,154631338.37
+BR0356,"Pune Branch 356",Pune,Maharashtra,1028,154623814.80
+BR0009,"Surat Branch 9",Surat,Gujarat,1030,154577794.51
+BR0086,"Ahmedabad Branch 86",Ahmedabad,Gujarat,1038,154559132.71
+BR0098,"Jodhpur Branch 98",Jodhpur,Rajasthan,1033,154461132.80
+BR0214,"Chandigarh Branch 214",Chandigarh,Chandigarh,1031,154454498.65
+BR0145,"Kota Branch 145",Kota,Rajasthan,1017,154446875.94
+BR0335,"Kota Branch 335",Kota,Rajasthan,1040,154420393.15
+BR0653,"Jodhpur Branch 653",Jodhpur,Rajasthan,1047,154364883.53
+BR0233,"Jodhpur Branch 233",Jodhpur,Rajasthan,1072,154340651.06
+BR0208,"Hyderabad Branch 208",Hyderabad,Telangana,1034,154314845.81
+BR0618,"Surat Branch 618",Surat,Gujarat,1026,154177710.89
+BR0687,"Indore Branch 687",Indore,"Madhya Pradesh",1068,154166487.96
+BR0603,"Delhi Branch 603",Delhi,Delhi,1029,154160715.39
+BR0730,"Pune Branch 730",Pune,Maharashtra,1037,154137844.14
+BR0402,"Chandigarh Branch 402",Chandigarh,Chandigarh,1030,154125173.15
+BR0030,"Jodhpur Branch 30",Jodhpur,Rajasthan,1001,154038567.25
+BR0667,"Jodhpur Branch 667",Jodhpur,Rajasthan,1024,154012508.87
+BR0640,"Alwar Branch 640",Alwar,Rajasthan,1028,153950535.47
+BR0213,"Kota Branch 213",Kota,Rajasthan,1016,153942269.66
+BR0886,"Pune Branch 886",Pune,Maharashtra,1081,153942103.96
+BR0044,"Udaipur Branch 44",Udaipur,Rajasthan,1065,153897337.05
+BR0243,"Bengaluru Branch 243",Bengaluru,Karnataka,1042,153876525.61
+BR0628,"Bhopal Branch 628",Bhopal,"Madhya Pradesh",1065,153875613.94
+BR0976,"Mumbai Branch 976",Mumbai,Maharashtra,1033,153856855.40
+BR0776,"Lucknow Branch 776",Lucknow,"Uttar Pradesh",1057,153839526.03
+BR0758,"Pune Branch 758",Pune,Maharashtra,1053,153824505.58
+BR0843,"Delhi Branch 843",Delhi,Delhi,1049,153787737.08
+BR0581,"Chennai Branch 581",Chennai,"Tamil Nadu",1049,153756650.30
+BR0456,"Kolkata Branch 456",Kolkata,"West Bengal",1042,153743960.98
+BR0841,"Kota Branch 841",Kota,Rajasthan,1024,153733562.78
+BR0497,"Mumbai Branch 497",Mumbai,Maharashtra,1045,153704759.98
+BR0572,"Kota Branch 572",Kota,Rajasthan,1023,153696489.06
+BR0698,"Hyderabad Branch 698",Hyderabad,Telangana,1035,153680746.52
+BR0824,"Pune Branch 824",Pune,Maharashtra,1035,153665210.93
+BR0016,"Jodhpur Branch 16",Jodhpur,Rajasthan,986,153650734.24
+BR0700,"Bengaluru Branch 700",Bengaluru,Karnataka,1037,153641928.81
+BR0220,"Jodhpur Branch 220",Jodhpur,Rajasthan,1045,153622016.27
+BR0230,"Delhi Branch 230",Delhi,Delhi,1038,153620682.99
+BR0162,"Mumbai Branch 162",Mumbai,Maharashtra,1022,153586421.10
+BR0890,"Indore Branch 890",Indore,"Madhya Pradesh",1040,153555734.79
+BR0756,"Chennai Branch 756",Chennai,"Tamil Nadu",1063,153534585.17
+BR0804,"Chandigarh Branch 804",Chandigarh,Chandigarh,1040,153525609.85
+BR0989,"Indore Branch 989",Indore,"Madhya Pradesh",1028,153488868.01
+BR0850,"Pune Branch 850",Pune,Maharashtra,1011,153487249.96
+BR0328,"Chennai Branch 328",Chennai,"Tamil Nadu",1035,153449256.58
+BR0622,"Lucknow Branch 622",Lucknow,"Uttar Pradesh",1048,153425668.86
+BR0582,"Jodhpur Branch 582",Jodhpur,Rajasthan,1040,153404060.33
+BR0099,"Surat Branch 99",Surat,Gujarat,1068,153391986.58
+BR0867,"Jaipur Branch 867",Jaipur,Rajasthan,1043,153350034.90
+BR0893,"Delhi Branch 893",Delhi,Delhi,1001,153345685.07
+BR0011,"Bengaluru Branch 11",Bengaluru,Karnataka,1024,153333582.63
+BR0121,"Indore Branch 121",Indore,"Madhya Pradesh",1035,153318799.88
+BR0346,"Bengaluru Branch 346",Bengaluru,Karnataka,1008,153297550.20
+BR0188,"Indore Branch 188",Indore,"Madhya Pradesh",1041,153228787.79
+BR0302,"Chennai Branch 302",Chennai,"Tamil Nadu",1031,153193109.88
+BR0737,"Surat Branch 737",Surat,Gujarat,1048,153189694.32
+BR0938,"Ahmedabad Branch 938",Ahmedabad,Gujarat,1041,153183095.29
+BR0077,"Kolkata Branch 77",Kolkata,"West Bengal",992,153162392.64
+BR0754,"Chandigarh Branch 754",Chandigarh,Chandigarh,1022,153110652.51
+BR0429,"Alwar Branch 429",Alwar,Rajasthan,1017,153035048.14
+BR0357,"Hyderabad Branch 357",Hyderabad,Telangana,1016,152991542.09
+BR0273,"Udaipur Branch 273",Udaipur,Rajasthan,996,152985235.43
+BR0907,"Alwar Branch 907",Alwar,Rajasthan,1020,152975663.87
+BR0320,"Alwar Branch 320",Alwar,Rajasthan,1002,152973739.41
+BR0118,"Indore Branch 118",Indore,"Madhya Pradesh",1019,152915579.40
+BR0982,"Udaipur Branch 982",Udaipur,Rajasthan,1059,152910690.71
+BR0192,"Ahmedabad Branch 192",Ahmedabad,Gujarat,1037,152893261.17
+BR0486,"Kota Branch 486",Kota,Rajasthan,1056,152891499.36
+BR0805,"Jaipur Branch 805",Jaipur,Rajasthan,1019,152888708.93
+BR0564,"Hyderabad Branch 564",Hyderabad,Telangana,1019,152859796.59
+BR0778,"Ahmedabad Branch 778",Ahmedabad,Gujarat,1046,152802662.67
+BR0191,"Jodhpur Branch 191",Jodhpur,Rajasthan,1040,152766820.35
+BR0977,"Mumbai Branch 977",Mumbai,Maharashtra,1049,152765544.88
+BR0103,"Mumbai Branch 103",Mumbai,Maharashtra,1052,152724514.25
+BR0512,"Jaipur Branch 512",Jaipur,Rajasthan,996,152640431.91
+BR0623,"Jodhpur Branch 623",Jodhpur,Rajasthan,1042,152620923.94
+BR0312,"Kolkata Branch 312",Kolkata,"West Bengal",1013,152611657.21
+BR0423,"Lucknow Branch 423",Lucknow,"Uttar Pradesh",1043,152592879.83
+BR0466,"Alwar Branch 466",Alwar,Rajasthan,1004,152589184.40
+BR0829,"Mumbai Branch 829",Mumbai,Maharashtra,1018,152573640.89
+BR0272,"Chandigarh Branch 272",Chandigarh,Chandigarh,1006,152568066.62
+BR0053,"Chennai Branch 53",Chennai,"Tamil Nadu",1028,152520468.32
+BR0797,"Bengaluru Branch 797",Bengaluru,Karnataka,1021,152518974.64
+BR0026,"Bengaluru Branch 26",Bengaluru,Karnataka,1034,152505204.23
+BR0136,"Bengaluru Branch 136",Bengaluru,Karnataka,1063,152466506.45
+BR0513,"Indore Branch 513",Indore,"Madhya Pradesh",1038,152401569.85
+BR0172,"Jaipur Branch 172",Jaipur,Rajasthan,1015,152336559.57
+BR0349,"Surat Branch 349",Surat,Gujarat,1046,152335550.09
+BR0173,"Indore Branch 173",Indore,"Madhya Pradesh",1013,152314198.69
+BR0933,"Surat Branch 933",Surat,Gujarat,1037,152283035.54
+BR0936,"Jodhpur Branch 936",Jodhpur,Rajasthan,1031,152270793.31
+BR0119,"Jodhpur Branch 119",Jodhpur,Rajasthan,1023,152270699.49
+BR0591,"Lucknow Branch 591",Lucknow,"Uttar Pradesh",1006,152241000.02
+BR0383,"Chennai Branch 383",Chennai,"Tamil Nadu",1041,152229917.11
+BR0174,"Jodhpur Branch 174",Jodhpur,Rajasthan,1033,152227276.73
+BR0278,"Mumbai Branch 278",Mumbai,Maharashtra,1027,152111436.30
+BR0261,"Bengaluru Branch 261",Bengaluru,Karnataka,1051,152052020.84
+BR0390,"Bhopal Branch 390",Bhopal,"Madhya Pradesh",1056,152048914.43
+BR0452,"Jodhpur Branch 452",Jodhpur,Rajasthan,1016,152046737.81
+BR0865,"Lucknow Branch 865",Lucknow,"Uttar Pradesh",1015,152027979.02
+BR0553,"Jodhpur Branch 553",Jodhpur,Rajasthan,1011,152014849.16
+BR0688,"Alwar Branch 688",Alwar,Rajasthan,1008,152013264.53
+BR0294,"Kota Branch 294",Kota,Rajasthan,1042,151997787.85
+BR0767,"Ahmedabad Branch 767",Ahmedabad,Gujarat,1030,151965853.26
+BR0114,"Lucknow Branch 114",Lucknow,"Uttar Pradesh",1018,151896245.15
+BR0836,"Hyderabad Branch 836",Hyderabad,Telangana,1046,151894131.16
+BR0126,"Delhi Branch 126",Delhi,Delhi,967,151892003.96
+BR0405,"Lucknow Branch 405",Lucknow,"Uttar Pradesh",1012,151867751.61
+BR0280,"Jaipur Branch 280",Jaipur,Rajasthan,1021,151862363.03
+BR0449,"Bengaluru Branch 449",Bengaluru,Karnataka,1040,151855184.03
+BR0439,"Lucknow Branch 439",Lucknow,"Uttar Pradesh",1033,151852348.42
+BR0925,"Hyderabad Branch 925",Hyderabad,Telangana,1038,151787140.76
+BR0336,"Bhopal Branch 336",Bhopal,"Madhya Pradesh",1007,151730014.34
+BR0089,"Alwar Branch 89",Alwar,Rajasthan,1033,151720768.39
+BR0588,"Udaipur Branch 588",Udaipur,Rajasthan,1030,151705978.03
+BR0396,"Kota Branch 396",Kota,Rajasthan,1028,151681410.42
+BR0746,"Mumbai Branch 746",Mumbai,Maharashtra,1014,151625846.43
+BR0496,"Udaipur Branch 496",Udaipur,Rajasthan,1062,151616467.18
+BR0920,"Hyderabad Branch 920",Hyderabad,Telangana,1004,151600626.20
+BR0036,"Chennai Branch 36",Chennai,"Tamil Nadu",1024,151591915.27
+BR0327,"Mumbai Branch 327",Mumbai,Maharashtra,1027,151583044.80
+BR0149,"Alwar Branch 149",Alwar,Rajasthan,1029,151555002.88
+BR0422,"Bhopal Branch 422",Bhopal,"Madhya Pradesh",1020,151541305.58
+BR0458,"Chennai Branch 458",Chennai,"Tamil Nadu",1030,151495538.01
+BR0808,"Jaipur Branch 808",Jaipur,Rajasthan,1028,151489840.20
+BR0168,"Chandigarh Branch 168",Chandigarh,Chandigarh,1037,151482001.01
+BR0275,"Ahmedabad Branch 275",Ahmedabad,Gujarat,1039,151474674.79
+BR0948,"Kota Branch 948",Kota,Rajasthan,1034,151474195.24
+BR0293,"Jodhpur Branch 293",Jodhpur,Rajasthan,1019,151445666.38
+BR0100,"Kolkata Branch 100",Kolkata,"West Bengal",977,151439699.89
+BR0869,"Lucknow Branch 869",Lucknow,"Uttar Pradesh",1027,151407864.61
+BR0929,"Udaipur Branch 929",Udaipur,Rajasthan,1025,151406006.70
+BR0259,"Kolkata Branch 259",Kolkata,"West Bengal",1016,151393840.87
+BR0151,"Alwar Branch 151",Alwar,Rajasthan,1026,151384908.85
+BR0469,"Lucknow Branch 469",Lucknow,"Uttar Pradesh",1050,151353418.25
+BR0853,"Jodhpur Branch 853",Jodhpur,Rajasthan,1015,151341028.38
+BR0739,"Jodhpur Branch 739",Jodhpur,Rajasthan,1029,151335982.25
+BR0203,"Ahmedabad Branch 203",Ahmedabad,Gujarat,1016,151299249.35
+BR0362,"Delhi Branch 362",Delhi,Delhi,1040,151220840.59
+BR0442,"Jodhpur Branch 442",Jodhpur,Rajasthan,996,151210224.52
+BR0571,"Surat Branch 571",Surat,Gujarat,978,151204674.66
+BR0904,"Hyderabad Branch 904",Hyderabad,Telangana,1025,151197108.07
+BR0378,"Indore Branch 378",Indore,"Madhya Pradesh",1024,151171624.68
+BR0150,"Surat Branch 150",Surat,Gujarat,990,151165188.45
+BR0179,"Bengaluru Branch 179",Bengaluru,Karnataka,1024,151154180.29
+BR0978,"Chandigarh Branch 978",Chandigarh,Chandigarh,1053,151141693.56
+BR0494,"Alwar Branch 494",Alwar,Rajasthan,1056,151114087.45
+BR0794,"Jaipur Branch 794",Jaipur,Rajasthan,1011,151111972.61
+BR0502,"Delhi Branch 502",Delhi,Delhi,1036,151098580.44
+BR0652,"Kolkata Branch 652",Kolkata,"West Bengal",1020,151087043.36
+BR0010,"Pune Branch 10",Pune,Maharashtra,1012,151079646.51
+BR0848,"Ahmedabad Branch 848",Ahmedabad,Gujarat,1035,151016518.91
+BR0301,"Bhopal Branch 301",Bhopal,"Madhya Pradesh",1027,150999453.87
+BR0677,"Jodhpur Branch 677",Jodhpur,Rajasthan,1028,150971387.92
+BR0973,"Mumbai Branch 973",Mumbai,Maharashtra,1010,150958004.91
+BR0656,"Mumbai Branch 656",Mumbai,Maharashtra,1028,150910394.73
+BR0250,"Indore Branch 250",Indore,"Madhya Pradesh",1003,150886505.51
+BR0552,"Mumbai Branch 552",Mumbai,Maharashtra,1013,150882042.07
+BR0333,"Indore Branch 333",Indore,"Madhya Pradesh",1016,150875826.50
+BR0927,"Jaipur Branch 927",Jaipur,Rajasthan,1035,150846577.69
+BR1000,"Delhi Branch 1000",Delhi,Delhi,1025,150845182.76
+BR0990,"Jodhpur Branch 990",Jodhpur,Rajasthan,998,150840086.64
+BR0472,"Chennai Branch 472",Chennai,"Tamil Nadu",1017,150829238.71
+BR0937,"Jodhpur Branch 937",Jodhpur,Rajasthan,1032,150810705.47
+BR0139,"Bengaluru Branch 139",Bengaluru,Karnataka,1011,150808101.39
+BR0879,"Lucknow Branch 879",Lucknow,"Uttar Pradesh",1034,150803843.16
+BR0450,"Alwar Branch 450",Alwar,Rajasthan,1023,150787457.88
+BR0468,"Chandigarh Branch 468",Chandigarh,Chandigarh,1011,150781981.85
+BR0786,"Delhi Branch 786",Delhi,Delhi,1023,150780299.85
+BR0071,"Lucknow Branch 71",Lucknow,"Uttar Pradesh",1011,150770540.98
+BR0042,"Pune Branch 42",Pune,Maharashtra,1007,150769209.96
+BR0703,"Udaipur Branch 703",Udaipur,Rajasthan,1040,150768597.81
+BR0223,"Lucknow Branch 223",Lucknow,"Uttar Pradesh",1053,150750467.67
+BR0110,"Indore Branch 110",Indore,"Madhya Pradesh",1029,150742269.75
+BR0983,"Kolkata Branch 983",Kolkata,"West Bengal",1024,150734074.05
+BR0266,"Mumbai Branch 266",Mumbai,Maharashtra,1025,150721174.42
+BR0403,"Jaipur Branch 403",Jaipur,Rajasthan,999,150695816.47
+BR0084,"Mumbai Branch 84",Mumbai,Maharashtra,1012,150682003.56
+BR0097,"Kolkata Branch 97",Kolkata,"West Bengal",1002,150670231.74
+BR0459,"Indore Branch 459",Indore,"Madhya Pradesh",1017,150656350.09
+BR0744,"Chandigarh Branch 744",Chandigarh,Chandigarh,1044,150641136.34
+BR0043,"Chennai Branch 43",Chennai,"Tamil Nadu",1003,150638863.86
+BR0644,"Kota Branch 644",Kota,Rajasthan,1052,150565918.99
+BR0537,"Bengaluru Branch 537",Bengaluru,Karnataka,1030,150526966.44
+BR0177,"Lucknow Branch 177",Lucknow,"Uttar Pradesh",1017,150502941.67
+BR0689,"Udaipur Branch 689",Udaipur,Rajasthan,1009,150501332.59
+BR0028,"Indore Branch 28",Indore,"Madhya Pradesh",1003,150500478.29
+BR0802,"Lucknow Branch 802",Lucknow,"Uttar Pradesh",994,150499237.09
+BR0374,"Udaipur Branch 374",Udaipur,Rajasthan,1012,150481571.31
+BR0790,"Lucknow Branch 790",Lucknow,"Uttar Pradesh",1007,150466547.14
+BR0562,"Kolkata Branch 562",Kolkata,"West Bengal",1016,150460032.13
+BR0793,"Udaipur Branch 793",Udaipur,Rajasthan,1016,150448400.64
+BR0602,"Jodhpur Branch 602",Jodhpur,Rajasthan,1036,150412698.49
+BR0570,"Lucknow Branch 570",Lucknow,"Uttar Pradesh",1041,150394283.13
+BR0534,"Bengaluru Branch 534",Bengaluru,Karnataka,1010,150382693.74
+BR0837,"Bhopal Branch 837",Bhopal,"Madhya Pradesh",1018,150367522.33
+BR0471,"Jaipur Branch 471",Jaipur,Rajasthan,1020,150355612.59
+BR0766,"Udaipur Branch 766",Udaipur,Rajasthan,1016,150353949.66
+BR0444,"Surat Branch 444",Surat,Gujarat,1038,150330112.52
+BR0823,"Chennai Branch 823",Chennai,"Tamil Nadu",1036,150327510.53
+BR0663,"Lucknow Branch 663",Lucknow,"Uttar Pradesh",1005,150272158.78
+BR0012,"Indore Branch 12",Indore,"Madhya Pradesh",1024,150242670.64
+BR0394,"Surat Branch 394",Surat,Gujarat,1002,150216864.60
+BR0763,"Bhopal Branch 763",Bhopal,"Madhya Pradesh",1028,150175570.54
+BR0715,"Chennai Branch 715",Chennai,"Tamil Nadu",1010,150161653.33
+BR0054,"Hyderabad Branch 54",Hyderabad,Telangana,1011,150127930.22
+BR0049,"Surat Branch 49",Surat,Gujarat,1014,150126067.27
+BR0649,"Kolkata Branch 649",Kolkata,"West Bengal",1007,150118693.31
+BR0092,"Mumbai Branch 92",Mumbai,Maharashtra,1000,150050400.55
+BR0296,"Jaipur Branch 296",Jaipur,Rajasthan,1030,150042224.76
+BR0308,"Pune Branch 308",Pune,Maharashtra,998,150034470.11
+BR0583,"Udaipur Branch 583",Udaipur,Rajasthan,1020,150002939.05
+BR0662,"Indore Branch 662",Indore,"Madhya Pradesh",1029,149992075.12
+BR0381,"Bengaluru Branch 381",Bengaluru,Karnataka,1015,149982161.18
+BR0595,"Lucknow Branch 595",Lucknow,"Uttar Pradesh",1033,149971746.60
+BR0620,"Bengaluru Branch 620",Bengaluru,Karnataka,1015,149970069.65
+BR0231,"Alwar Branch 231",Alwar,Rajasthan,1008,149964550.50
+BR0872,"Pune Branch 872",Pune,Maharashtra,1012,149931523.50
+BR0820,"Alwar Branch 820",Alwar,Rajasthan,1041,149931480.76
+BR0944,"Surat Branch 944",Surat,Gujarat,1005,149907820.61
+BR0487,"Jodhpur Branch 487",Jodhpur,Rajasthan,1019,149896415.07
+BR0579,"Delhi Branch 579",Delhi,Delhi,1027,149890090.71
+BR0637,"Delhi Branch 637",Delhi,Delhi,998,149886216.62
+BR0022,"Chandigarh Branch 22",Chandigarh,Chandigarh,1003,149834168.33
+BR0685,"Hyderabad Branch 685",Hyderabad,Telangana,1012,149814306.71
+BR0735,"Delhi Branch 735",Delhi,Delhi,1003,149790106.72
+BR0696,"Kolkata Branch 696",Kolkata,"West Bengal",1010,149779106.88
+BR0365,"Surat Branch 365",Surat,Gujarat,1050,149773417.04
+BR0954,"Kolkata Branch 954",Kolkata,"West Bengal",992,149759699.52
+BR0443,"Lucknow Branch 443",Lucknow,"Uttar Pradesh",1013,149747577.83
+BR0952,"Chandigarh Branch 952",Chandigarh,Chandigarh,1020,149699970.97
+BR0759,"Alwar Branch 759",Alwar,Rajasthan,1051,149699298.32
+BR0887,"Mumbai Branch 887",Mumbai,Maharashtra,965,149698643.43
+BR0913,"Lucknow Branch 913",Lucknow,"Uttar Pradesh",998,149684954.43
+BR0972,"Jaipur Branch 972",Jaipur,Rajasthan,1015,149667085.11
+BR0795,"Jaipur Branch 795",Jaipur,Rajasthan,977,149666438.35
+BR0768,"Mumbai Branch 768",Mumbai,Maharashtra,1021,149652957.96
+BR0596,"Chennai Branch 596",Chennai,"Tamil Nadu",1005,149644998.23
+BR0721,"Jaipur Branch 721",Jaipur,Rajasthan,1015,149611285.60
+BR0747,"Kolkata Branch 747",Kolkata,"West Bengal",1026,149600171.45
+BR0412,"Kolkata Branch 412",Kolkata,"West Bengal",1011,149572749.38
+BR0477,"Kolkata Branch 477",Kolkata,"West Bengal",1001,149571857.73
+BR0478,"Alwar Branch 478",Alwar,Rajasthan,1016,149569529.27
+BR0919,"Mumbai Branch 919",Mumbai,Maharashtra,1030,149564202.51
+BR0262,"Delhi Branch 262",Delhi,Delhi,1007,149556017.90
+BR0258,"Alwar Branch 258",Alwar,Rajasthan,1019,149526720.49
+BR0130,"Indore Branch 130",Indore,"Madhya Pradesh",1002,149524710.69
+BR0039,"Jaipur Branch 39",Jaipur,Rajasthan,997,149512070.80
+BR0200,"Kolkata Branch 200",Kolkata,"West Bengal",1005,149505400.06
+BR0782,"Indore Branch 782",Indore,"Madhya Pradesh",1028,149490874.25
+BR0161,"Surat Branch 161",Surat,Gujarat,1024,149486166.44
+BR0306,"Jodhpur Branch 306",Jodhpur,Rajasthan,1040,149485628.54
+BR0946,"Bengaluru Branch 946",Bengaluru,Karnataka,994,149438060.80
+BR0655,"Surat Branch 655",Surat,Gujarat,998,149409874.24
+BR0481,"Chandigarh Branch 481",Chandigarh,Chandigarh,1014,149406767.03
+BR0416,"Udaipur Branch 416",Udaipur,Rajasthan,999,149383752.07
+BR0215,"Chennai Branch 215",Chennai,"Tamil Nadu",1017,149377002.92
+BR0479,"Jodhpur Branch 479",Jodhpur,Rajasthan,998,149371542.59
+BR0792,"Chennai Branch 792",Chennai,"Tamil Nadu",999,149347690.17
+BR0679,"Delhi Branch 679",Delhi,Delhi,1008,149340573.56
+BR0695,"Delhi Branch 695",Delhi,Delhi,1008,149331039.49
+BR0612,"Delhi Branch 612",Delhi,Delhi,1028,149325167.23
+BR0309,"Alwar Branch 309",Alwar,Rajasthan,995,149310159.56
+BR0081,"Ahmedabad Branch 81",Ahmedabad,Gujarat,1020,149305469.45
+BR0743,"Jaipur Branch 743",Jaipur,Rajasthan,1002,149294478.14
+BR0565,"Bhopal Branch 565",Bhopal,"Madhya Pradesh",1011,149288548.91
+BR0908,"Jaipur Branch 908",Jaipur,Rajasthan,1002,149284404.13
+BR0219,"Ahmedabad Branch 219",Ahmedabad,Gujarat,1007,149262728.87
+BR0282,"Delhi Branch 282",Delhi,Delhi,1022,149257511.34
+BR0527,"Alwar Branch 527",Alwar,Rajasthan,999,149247324.19
+BR0993,"Chandigarh Branch 993",Chandigarh,Chandigarh,987,149245922.07
+BR0521,"Mumbai Branch 521",Mumbai,Maharashtra,1000,149233031.55
+BR0013,"Chennai Branch 13",Chennai,"Tamil Nadu",1014,149213382.90
+BR0395,"Lucknow Branch 395",Lucknow,"Uttar Pradesh",993,149174882.40
+BR0087,"Bengaluru Branch 87",Bengaluru,Karnataka,1028,149173185.64
+BR0141,"Udaipur Branch 141",Udaipur,Rajasthan,1024,149168105.64
+BR0888,"Udaipur Branch 888",Udaipur,Rajasthan,1016,149148537.47
+BR0975,"Delhi Branch 975",Delhi,Delhi,1012,149145409.11
+BR0031,"Hyderabad Branch 31",Hyderabad,Telangana,990,149137569.02
+BR0148,"Hyderabad Branch 148",Hyderabad,Telangana,1020,149130811.50
+BR0257,"Alwar Branch 257",Alwar,Rajasthan,1003,149117013.39
+BR0371,"Kota Branch 371",Kota,Rajasthan,984,149116969.68
+BR0970,"Indore Branch 970",Indore,"Madhya Pradesh",971,149107447.88
+BR0606,"Surat Branch 606",Surat,Gujarat,1065,149101549.97
+BR0352,"Kolkata Branch 352",Kolkata,"West Bengal",1009,149077852.03
+BR0608,"Alwar Branch 608",Alwar,Rajasthan,972,149058765.84
+BR0526,"Kolkata Branch 526",Kolkata,"West Bengal",1029,149043137.51
+BR0032,"Kota Branch 32",Kota,Rajasthan,1017,149040252.36
+BR0530,"Jodhpur Branch 530",Jodhpur,Rajasthan,1030,149018796.89
+BR0201,"Pune Branch 201",Pune,Maharashtra,997,149007817.78
+BR0868,"Hyderabad Branch 868",Hyderabad,Telangana,1011,149005017.03
+BR0568,"Chandigarh Branch 568",Chandigarh,Chandigarh,1002,148971248.06
+BR0332,"Bhopal Branch 332",Bhopal,"Madhya Pradesh",1004,148964215.24
+BR0998,"Lucknow Branch 998",Lucknow,"Uttar Pradesh",994,148949158.22
+BR0518,"Indore Branch 518",Indore,"Madhya Pradesh",1009,148882715.47
+BR0377,"Ahmedabad Branch 377",Ahmedabad,Gujarat,980,148868573.26
+BR0391,"Bengaluru Branch 391",Bengaluru,Karnataka,999,148865844.09
+BR0255,"Alwar Branch 255",Alwar,Rajasthan,1024,148851322.72
+BR0670,"Hyderabad Branch 670",Hyderabad,Telangana,1031,148846602.31
+BR0729,"Hyderabad Branch 729",Hyderabad,Telangana,984,148815207.70
+BR0364,"Delhi Branch 364",Delhi,Delhi,1009,148791672.42
+BR0732,"Alwar Branch 732",Alwar,Rajasthan,1003,148787319.08
+BR0783,"Jaipur Branch 783",Jaipur,Rajasthan,1005,148781884.68
+BR0678,"Udaipur Branch 678",Udaipur,Rajasthan,978,148773035.91
+BR0235,"Pune Branch 235",Pune,Maharashtra,1015,148744314.86
+BR0314,"Alwar Branch 314",Alwar,Rajasthan,1010,148732422.54
+BR0598,"Surat Branch 598",Surat,Gujarat,1020,148732070.67
+BR0968,"Kolkata Branch 968",Kolkata,"West Bengal",976,148710235.73
+BR0163,"Surat Branch 163",Surat,Gujarat,1044,148705435.39
+BR0693,"Delhi Branch 693",Delhi,Delhi,1043,148651770.69
+BR0784,"Delhi Branch 784",Delhi,Delhi,1009,148649975.91
+BR0796,"Surat Branch 796",Surat,Gujarat,997,148619223.73
+BR0199,"Udaipur Branch 199",Udaipur,Rajasthan,985,148588877.83
+BR0366,"Indore Branch 366",Indore,"Madhya Pradesh",1009,148561806.52
+BR0129,"Delhi Branch 129",Delhi,Delhi,1039,148545391.20
+BR0840,"Jaipur Branch 840",Jaipur,Rajasthan,996,148538624.64
+BR0787,"Kolkata Branch 787",Kolkata,"West Bengal",986,148526222.39
+BR0631,"Indore Branch 631",Indore,"Madhya Pradesh",1008,148524449.64
+BR0578,"Bengaluru Branch 578",Bengaluru,Karnataka,983,148523993.84
+BR0817,"Indore Branch 817",Indore,"Madhya Pradesh",1002,148512084.59
+BR0801,"Pune Branch 801",Pune,Maharashtra,1013,148490805.04
+BR0921,"Surat Branch 921",Surat,Gujarat,1029,148484493.31
+BR0987,"Chennai Branch 987",Chennai,"Tamil Nadu",1023,148468519.25
+BR0313,"Udaipur Branch 313",Udaipur,Rajasthan,1028,148459923.17
+BR0706,"Kota Branch 706",Kota,Rajasthan,1026,148458132.02
+BR0055,"Kota Branch 55",Kota,Rajasthan,994,148454115.30
+BR0741,"Bhopal Branch 741",Bhopal,"Madhya Pradesh",1023,148407337.76
+BR0509,"Indore Branch 509",Indore,"Madhya Pradesh",1021,148398431.17
+BR0056,"Alwar Branch 56",Alwar,Rajasthan,1011,148376679.53
+BR0269,"Pune Branch 269",Pune,Maharashtra,1011,148331719.89
+BR0726,"Alwar Branch 726",Alwar,Rajasthan,1016,148327908.22
+BR0839,"Mumbai Branch 839",Mumbai,Maharashtra,1006,148295875.88
+BR0334,"Pune Branch 334",Pune,Maharashtra,1023,148245236.22
+BR0375,"Mumbai Branch 375",Mumbai,Maharashtra,983,148241767.36
+BR0289,"Pune Branch 289",Pune,Maharashtra,1034,148240324.40
+BR0604,"Mumbai Branch 604",Mumbai,Maharashtra,1005,148233544.11
+BR0462,"Indore Branch 462",Indore,"Madhya Pradesh",998,148230663.05
+BR0310,"Kolkata Branch 310",Kolkata,"West Bengal",1001,148220298.39
+BR0111,"Surat Branch 111",Surat,Gujarat,1022,148209125.55
+BR0855,"Kolkata Branch 855",Kolkata,"West Bengal",994,148200598.36
+BR0127,"Mumbai Branch 127",Mumbai,Maharashtra,1012,148171679.62
+BR0160,"Mumbai Branch 160",Mumbai,Maharashtra,1008,148160549.79
+BR0714,"Jaipur Branch 714",Jaipur,Rajasthan,1011,148155399.16
+BR0234,"Ahmedabad Branch 234",Ahmedabad,Gujarat,999,148148974.21
+BR0724,"Delhi Branch 724",Delhi,Delhi,1007,148134733.01
+BR0864,"Alwar Branch 864",Alwar,Rajasthan,1008,148127067.92
+BR0249,"Chennai Branch 249",Chennai,"Tamil Nadu",1031,148117982.26
+BR0300,"Bhopal Branch 300",Bhopal,"Madhya Pradesh",983,148109370.14
+BR0942,"Mumbai Branch 942",Mumbai,Maharashtra,1003,148096790.68
+BR0959,"Hyderabad Branch 959",Hyderabad,Telangana,1001,148094369.52
+BR0421,"Lucknow Branch 421",Lucknow,"Uttar Pradesh",1009,148088478.32
+BR0142,"Bhopal Branch 142",Bhopal,"Madhya Pradesh",997,148081416.87
+BR0660,"Bhopal Branch 660",Bhopal,"Madhya Pradesh",1009,148058083.88
+BR0170,"Lucknow Branch 170",Lucknow,"Uttar Pradesh",1018,148054166.45
+BR0503,"Bengaluru Branch 503",Bengaluru,Karnataka,1012,148052408.93
+BR0446,"Udaipur Branch 446",Udaipur,Rajasthan,1011,147977077.57
+BR0803,"Kota Branch 803",Kota,Rajasthan,991,147960556.71
+BR0033,"Pune Branch 33",Pune,Maharashtra,1021,147956664.17
+BR0627,"Bhopal Branch 627",Bhopal,"Madhya Pradesh",995,147935557.04
+BR0931,"Chandigarh Branch 931",Chandigarh,Chandigarh,1017,147931533.72
+BR0144,"Bengaluru Branch 144",Bengaluru,Karnataka,1027,147931340.84
+BR0184,"Delhi Branch 184",Delhi,Delhi,1005,147925929.41
+BR0060,"Chennai Branch 60",Chennai,"Tamil Nadu",993,147919514.72
+BR0809,"Kolkata Branch 809",Kolkata,"West Bengal",1005,147906519.14
+BR0659,"Bhopal Branch 659",Bhopal,"Madhya Pradesh",1000,147897896.25
+BR0187,"Udaipur Branch 187",Udaipur,Rajasthan,990,147860278.89
+BR0194,"Surat Branch 194",Surat,Gujarat,1024,147857020.41
+BR0113,"Chandigarh Branch 113",Chandigarh,Chandigarh,1013,147844765.67
+BR0974,"Chennai Branch 974",Chennai,"Tamil Nadu",1012,147814173.71
+BR0560,"Alwar Branch 560",Alwar,Rajasthan,985,147813046.42
+BR0900,"Chandigarh Branch 900",Chandigarh,Chandigarh,1013,147797353.53
+BR0877,"Chandigarh Branch 877",Chandigarh,Chandigarh,1026,147791002.10
+BR0343,"Indore Branch 343",Indore,"Madhya Pradesh",1024,147782965.20
+BR0592,"Pune Branch 592",Pune,Maharashtra,1012,147780494.78
+BR0849,"Jaipur Branch 849",Jaipur,Rajasthan,1030,147771493.06
+BR0506,"Lucknow Branch 506",Lucknow,"Uttar Pradesh",1023,147765079.34
+BR0382,"Chennai Branch 382",Chennai,"Tamil Nadu",1006,147739124.85
+BR0940,"Bhopal Branch 940",Bhopal,"Madhya Pradesh",1012,147719597.70
+BR0229,"Mumbai Branch 229",Mumbai,Maharashtra,1023,147717064.16
+BR0006,"Jaipur Branch 6",Jaipur,Rajasthan,1031,147705098.02
+BR0634,"Bhopal Branch 634",Bhopal,"Madhya Pradesh",994,147689771.55
+BR0765,"Chandigarh Branch 765",Chandigarh,Chandigarh,961,147686314.47
+BR0833,"Alwar Branch 833",Alwar,Rajasthan,1015,147662860.47
+BR0432,"Alwar Branch 432",Alwar,Rajasthan,1030,147652763.80
+BR0825,"Chandigarh Branch 825",Chandigarh,Chandigarh,995,147601714.91
+BR0322,"Chandigarh Branch 322",Chandigarh,Chandigarh,1018,147585989.69
+BR0941,"Ahmedabad Branch 941",Ahmedabad,Gujarat,998,147567754.73
+BR0672,"Bengaluru Branch 672",Bengaluru,Karnataka,979,147562865.17
+BR0323,"Kota Branch 323",Kota,Rajasthan,1017,147556190.04
+BR0639,"Ahmedabad Branch 639",Ahmedabad,Gujarat,1028,147531184.14
+BR0475,"Pune Branch 475",Pune,Maharashtra,974,147528663.79
+BR0607,"Jodhpur Branch 607",Jodhpur,Rajasthan,990,147512426.82
+BR0555,"Udaipur Branch 555",Udaipur,Rajasthan,1018,147497759.31
+BR0641,"Surat Branch 641",Surat,Gujarat,1009,147494844.96
+BR0682,"Chandigarh Branch 682",Chandigarh,Chandigarh,983,147471803.46
+BR0589,"Mumbai Branch 589",Mumbai,Maharashtra,1004,147461702.39
+BR0905,"Ahmedabad Branch 905",Ahmedabad,Gujarat,996,147445512.76
+BR0182,"Udaipur Branch 182",Udaipur,Rajasthan,1004,147445139.70
+BR0207,"Bengaluru Branch 207",Bengaluru,Karnataka,1003,147439062.86
+BR0239,"Udaipur Branch 239",Udaipur,Rajasthan,1007,147433923.81
+BR0205,"Pune Branch 205",Pune,Maharashtra,1019,147425529.75
+BR0854,"Pune Branch 854",Pune,Maharashtra,987,147416292.16
+BR0664,"Surat Branch 664",Surat,Gujarat,984,147407969.73
+BR0762,"Chennai Branch 762",Chennai,"Tamil Nadu",1006,147373881.82
+BR0041,"Bengaluru Branch 41",Bengaluru,Karnataka,1023,147361647.42
+BR0882,"Lucknow Branch 882",Lucknow,"Uttar Pradesh",983,147336054.63
+BR0611,"Kota Branch 611",Kota,Rajasthan,1001,147317658.77
+BR0654,"Alwar Branch 654",Alwar,Rajasthan,987,147314088.29
+BR0673,"Bhopal Branch 673",Bhopal,"Madhya Pradesh",1017,147312928.22
+BR0860,"Udaipur Branch 860",Udaipur,Rajasthan,1024,147280477.71
+BR0507,"Surat Branch 507",Surat,Gujarat,1009,147271469.75
+BR0889,"Hyderabad Branch 889",Hyderabad,Telangana,1001,147260490.42
+BR0370,"Udaipur Branch 370",Udaipur,Rajasthan,986,147250123.06
+BR0001,"Jodhpur Branch 1",Jodhpur,Rajasthan,1005,147244370.42
+BR0791,"Chennai Branch 791",Chennai,"Tamil Nadu",977,147235579.87
+BR0226,"Pune Branch 226",Pune,Maharashtra,1012,147220842.03
+BR0669,"Kota Branch 669",Kota,Rajasthan,1029,147211588.54
+BR0425,"Kota Branch 425",Kota,Rajasthan,1002,147192244.83
+BR0601,"Lucknow Branch 601",Lucknow,"Uttar Pradesh",967,147175691.99
+BR0008,"Jodhpur Branch 8",Jodhpur,Rajasthan,1017,147157861.06
+BR0585,"Jaipur Branch 585",Jaipur,Rajasthan,1014,147138184.17
+BR0202,"Ahmedabad Branch 202",Ahmedabad,Gujarat,1026,147135815.55
+BR0069,"Alwar Branch 69",Alwar,Rajasthan,1015,147126954.56
+BR0577,"Indore Branch 577",Indore,"Madhya Pradesh",994,147115300.35
+BR0298,"Hyderabad Branch 298",Hyderabad,Telangana,1008,147102314.48
+BR0025,"Mumbai Branch 25",Mumbai,Maharashtra,1004,147071951.24
+BR0195,"Hyderabad Branch 195",Hyderabad,Telangana,985,147053970.31
+BR0180,"Udaipur Branch 180",Udaipur,Rajasthan,1006,147030223.56
+BR0216,"Bengaluru Branch 216",Bengaluru,Karnataka,1026,147027994.14
+BR0004,"Pune Branch 4",Pune,Maharashtra,1003,147022954.37
+BR0070,"Jodhpur Branch 70",Jodhpur,Rajasthan,984,147001904.23
+BR0409,"Hyderabad Branch 409",Hyderabad,Telangana,1017,146988221.73
+BR0798,"Bengaluru Branch 798",Bengaluru,Karnataka,1017,146975010.44
+BR0108,"Pune Branch 108",Pune,Maharashtra,1009,146961814.81
+BR0881,"Udaipur Branch 881",Udaipur,Rajasthan,986,146961097.20
+BR0520,"Alwar Branch 520",Alwar,Rajasthan,1018,146958389.70
+BR0939,"Delhi Branch 939",Delhi,Delhi,1025,146951210.49
+BR0169,"Hyderabad Branch 169",Hyderabad,Telangana,1003,146944038.81
+BR0947,"Pune Branch 947",Pune,Maharashtra,991,146936310.35
+BR0914,"Indore Branch 914",Indore,"Madhya Pradesh",999,146935436.12
+BR0896,"Kolkata Branch 896",Kolkata,"West Bengal",1008,146934471.35
+BR0206,"Jodhpur Branch 206",Jodhpur,Rajasthan,984,146929680.61
+BR0408,"Delhi Branch 408",Delhi,Delhi,1006,146905166.58
+BR0360,"Delhi Branch 360",Delhi,Delhi,987,146899496.67
+BR0828,"Jodhpur Branch 828",Jodhpur,Rajasthan,1003,146897948.68
+BR0245,"Surat Branch 245",Surat,Gujarat,983,146876730.12
+BR0046,"Bengaluru Branch 46",Bengaluru,Karnataka,1002,146870519.45
+BR0082,"Ahmedabad Branch 82",Ahmedabad,Gujarat,999,146869702.21
+BR0511,"Delhi Branch 511",Delhi,Delhi,1009,146850948.46
+BR0576,"Jaipur Branch 576",Jaipur,Rajasthan,1023,146850842.59
+BR0463,"Indore Branch 463",Indore,"Madhya Pradesh",994,146847942.78
+BR0400,"Chandigarh Branch 400",Chandigarh,Chandigarh,1005,146837253.38
+BR0710,"Bengaluru Branch 710",Bengaluru,Karnataka,995,146836566.76
+BR0531,"Jodhpur Branch 531",Jodhpur,Rajasthan,988,146828907.87
+BR0376,"Hyderabad Branch 376",Hyderabad,Telangana,1017,146826158.70
+BR0580,"Delhi Branch 580",Delhi,Delhi,1001,146817361.07
+BR0164,"Jodhpur Branch 164",Jodhpur,Rajasthan,1031,146807664.48
+BR0104,"Chandigarh Branch 104",Chandigarh,Chandigarh,1024,146761227.45
+BR0755,"Udaipur Branch 755",Udaipur,Rajasthan,1001,146750471.94
+BR0147,"Alwar Branch 147",Alwar,Rajasthan,977,146731092.24
+BR0093,"Chennai Branch 93",Chennai,"Tamil Nadu",993,146717851.40
+BR0814,"Alwar Branch 814",Alwar,Rajasthan,1004,146717254.63
+BR0859,"Kolkata Branch 859",Kolkata,"West Bengal",1017,146700761.83
+BR0073,"Hyderabad Branch 73",Hyderabad,Telangana,1017,146700295.67
+BR0712,"Ahmedabad Branch 712",Ahmedabad,Gujarat,980,146692512.85
+BR0986,"Indore Branch 986",Indore,"Madhya Pradesh",1005,146688824.35
+BR0661,"Hyderabad Branch 661",Hyderabad,Telangana,984,146676347.52
+BR0702,"Jodhpur Branch 702",Jodhpur,Rajasthan,1000,146671496.31
+BR0107,"Chandigarh Branch 107",Chandigarh,Chandigarh,1010,146664314.87
+BR0218,"Alwar Branch 218",Alwar,Rajasthan,968,146644286.81
+BR0040,"Ahmedabad Branch 40",Ahmedabad,Gujarat,1013,146634340.44
+BR0923,"Ahmedabad Branch 923",Ahmedabad,Gujarat,973,146631909.53
+BR0470,"Kolkata Branch 470",Kolkata,"West Bengal",997,146623873.39
+BR0875,"Bengaluru Branch 875",Bengaluru,Karnataka,1018,146623802.04
+BR0021,"Kolkata Branch 21",Kolkata,"West Bengal",987,146590653.26
+BR0852,"Jaipur Branch 852",Jaipur,Rajasthan,995,146520626.03
+BR0389,"Ahmedabad Branch 389",Ahmedabad,Gujarat,1008,146515311.21
+BR0361,"Delhi Branch 361",Delhi,Delhi,996,146505256.84
+BR0991,"Pune Branch 991",Pune,Maharashtra,1002,146499094.28
+BR0979,"Delhi Branch 979",Delhi,Delhi,1009,146482577.78
+BR0559,"Pune Branch 559",Pune,Maharashtra,1035,146448697.95
+BR0232,"Pune Branch 232",Pune,Maharashtra,1001,146421699.63
+BR0969,"Hyderabad Branch 969",Hyderabad,Telangana,994,146411551.70
+BR0305,"Jodhpur Branch 305",Jodhpur,Rajasthan,1007,146405638.35
+BR0508,"Udaipur Branch 508",Udaipur,Rajasthan,996,146400124.72
+BR0045,"Kota Branch 45",Kota,Rajasthan,1019,146399116.97
+BR0965,"Bhopal Branch 965",Bhopal,"Madhya Pradesh",968,146394481.78
+BR0569,"Mumbai Branch 569",Mumbai,Maharashtra,1003,146376983.35
+BR0260,"Indore Branch 260",Indore,"Madhya Pradesh",996,146345606.61
+BR0624,"Lucknow Branch 624",Lucknow,"Uttar Pradesh",1022,146344792.57
+BR0455,"Ahmedabad Branch 455",Ahmedabad,Gujarat,984,146329604.83
+BR0367,"Bengaluru Branch 367",Bengaluru,Karnataka,1005,146329497.53
+BR0524,"Lucknow Branch 524",Lucknow,"Uttar Pradesh",1011,146292318.02
+BR0636,"Hyderabad Branch 636",Hyderabad,Telangana,968,146284803.22
+BR0291,"Kolkata Branch 291",Kolkata,"West Bengal",983,146253313.31
+BR0083,"Surat Branch 83",Surat,Gujarat,1004,146240662.45
+BR0369,"Ahmedabad Branch 369",Ahmedabad,Gujarat,988,146210821.46
+BR0068,"Chandigarh Branch 68",Chandigarh,Chandigarh,965,146193428.96
+BR0668,"Jodhpur Branch 668",Jodhpur,Rajasthan,979,146190657.41
+BR0440,"Lucknow Branch 440",Lucknow,"Uttar Pradesh",1002,146189250.50
+BR0777,"Bhopal Branch 777",Bhopal,"Madhya Pradesh",969,146174285.31
+BR0317,"Bhopal Branch 317",Bhopal,"Madhya Pradesh",1004,146169131.33
+BR0648,"Ahmedabad Branch 648",Ahmedabad,Gujarat,972,146161755.94
+BR0846,"Kota Branch 846",Kota,Rajasthan,988,146121662.56
+BR0399,"Delhi Branch 399",Delhi,Delhi,970,146114762.93
+BR0883,"Lucknow Branch 883",Lucknow,"Uttar Pradesh",991,146103903.19
+BR0692,"Bengaluru Branch 692",Bengaluru,Karnataka,995,146094271.35
+BR0675,"Surat Branch 675",Surat,Gujarat,980,146077502.04
+BR0018,"Kota Branch 18",Kota,Rajasthan,989,146061143.04
+BR0690,"Bhopal Branch 690",Bhopal,"Madhya Pradesh",964,146039966.59
+BR0017,"Hyderabad Branch 17",Hyderabad,Telangana,978,146032700.59
+BR0134,"Chandigarh Branch 134",Chandigarh,Chandigarh,986,145986955.96
+BR0621,"Lucknow Branch 621",Lucknow,"Uttar Pradesh",1000,145985247.66
+BR0911,"Delhi Branch 911",Delhi,Delhi,984,145949539.81
+BR0209,"Indore Branch 209",Indore,"Madhya Pradesh",1003,145929457.62
+BR0355,"Udaipur Branch 355",Udaipur,Rajasthan,999,145917257.35
+BR0770,"Mumbai Branch 770",Mumbai,Maharashtra,976,145916967.02
+BR0125,"Chandigarh Branch 125",Chandigarh,Chandigarh,986,145883478.66
+BR0290,"Bengaluru Branch 290",Bengaluru,Karnataka,1039,145846977.61
+BR0851,"Surat Branch 851",Surat,Gujarat,972,145841682.68
+BR0772,"Surat Branch 772",Surat,Gujarat,975,145840401.27
+BR0380,"Lucknow Branch 380",Lucknow,"Uttar Pradesh",1000,145830302.34
+BR0932,"Kota Branch 932",Kota,Rajasthan,998,145796400.13
+BR0753,"Bengaluru Branch 753",Bengaluru,Karnataka,1026,145775976.23
+BR0003,"Pune Branch 3",Pune,Maharashtra,1012,145690002.87
+BR0155,"Delhi Branch 155",Delhi,Delhi,992,145676961.78
+BR0918,"Lucknow Branch 918",Lucknow,"Uttar Pradesh",1020,145665259.94
+BR0516,"Ahmedabad Branch 516",Ahmedabad,Gujarat,1031,145664016.30
+BR0326,"Chennai Branch 326",Chennai,"Tamil Nadu",975,145645978.94
+BR0491,"Bhopal Branch 491",Bhopal,"Madhya Pradesh",988,145617387.91
+BR0138,"Mumbai Branch 138",Mumbai,Maharashtra,1009,145606093.09
+BR0411,"Bhopal Branch 411",Bhopal,"Madhya Pradesh",973,145598879.45
+BR0547,"Lucknow Branch 547",Lucknow,"Uttar Pradesh",995,145598049.22
+BR0529,"Udaipur Branch 529",Udaipur,Rajasthan,987,145595862.33
+BR0490,"Lucknow Branch 490",Lucknow,"Uttar Pradesh",980,145588988.17
+BR0410,"Mumbai Branch 410",Mumbai,Maharashtra,1008,145564875.69
+BR0788,"Ahmedabad Branch 788",Ahmedabad,Gujarat,999,145562487.81
+BR0658,"Bhopal Branch 658",Bhopal,"Madhya Pradesh",993,145560022.76
+BR0554,"Chennai Branch 554",Chennai,"Tamil Nadu",1002,145544256.09
+BR0750,"Kota Branch 750",Kota,Rajasthan,981,145539993.50
+BR0964,"Chennai Branch 964",Chennai,"Tamil Nadu",987,145526078.23
+BR0324,"Lucknow Branch 324",Lucknow,"Uttar Pradesh",1004,145518692.75
+BR0999,"Jaipur Branch 999",Jaipur,Rajasthan,992,145509395.66
+BR0870,"Udaipur Branch 870",Udaipur,Rajasthan,1003,145492524.39
+BR0330,"Delhi Branch 330",Delhi,Delhi,996,145490307.14
+BR0822,"Ahmedabad Branch 822",Ahmedabad,Gujarat,989,145488678.14
+BR0404,"Delhi Branch 404",Delhi,Delhi,998,145463678.44
+BR0536,"Kolkata Branch 536",Kolkata,"West Bengal",1006,145449097.11
+BR0738,"Bhopal Branch 738",Bhopal,"Madhya Pradesh",1004,145446961.51
+BR0171,"Bengaluru Branch 171",Bengaluru,Karnataka,1001,145424698.05
+BR0967,"Ahmedabad Branch 967",Ahmedabad,Gujarat,985,145422548.25
+BR0242,"Chandigarh Branch 242",Chandigarh,Chandigarh,965,145416042.31
+BR0985,"Jodhpur Branch 985",Jodhpur,Rajasthan,991,145409727.56
+BR0384,"Hyderabad Branch 384",Hyderabad,Telangana,1000,145401996.86
+BR0067,"Udaipur Branch 67",Udaipur,Rajasthan,998,145389130.09
+BR0186,"Pune Branch 186",Pune,Maharashtra,978,145374298.97
+BR0288,"Delhi Branch 288",Delhi,Delhi,970,145366784.89
+BR0523,"Alwar Branch 523",Alwar,Rajasthan,991,145344700.81
+BR0642,"Kolkata Branch 642",Kolkata,"West Bengal",1006,145342363.41
+BR0436,"Indore Branch 436",Indore,"Madhya Pradesh",981,145324340.88
+BR0363,"Kota Branch 363",Kota,Rajasthan,989,145313185.93
+BR0557,"Udaipur Branch 557",Udaipur,Rajasthan,1002,145311135.29
+BR0666,"Kota Branch 666",Kota,Rajasthan,991,145301758.83
+BR0924,"Udaipur Branch 924",Udaipur,Rajasthan,982,145297059.14
+BR0749,"Lucknow Branch 749",Lucknow,"Uttar Pradesh",1005,145272244.76
+BR0430,"Kota Branch 430",Kota,Rajasthan,986,145209594.85
+BR0962,"Chennai Branch 962",Chennai,"Tamil Nadu",979,145149067.39
+BR0997,"Indore Branch 997",Indore,"Madhya Pradesh",1003,145138423.53
+BR0331,"Kolkata Branch 331",Kolkata,"West Bengal",988,145091248.22
+BR0645,"Jaipur Branch 645",Jaipur,Rajasthan,966,145081094.71
+BR0264,"Mumbai Branch 264",Mumbai,Maharashtra,972,145045137.77
+BR0963,"Lucknow Branch 963",Lucknow,"Uttar Pradesh",1008,145035647.46
+BR0435,"Pune Branch 435",Pune,Maharashtra,988,145028723.85
+BR0385,"Kota Branch 385",Kota,Rajasthan,987,145005884.70
+BR0819,"Pune Branch 819",Pune,Maharashtra,996,144964828.85
+BR0002,"Mumbai Branch 2",Mumbai,Maharashtra,968,144958420.53
+BR0085,"Surat Branch 85",Surat,Gujarat,990,144923664.55
+BR0397,"Chandigarh Branch 397",Chandigarh,Chandigarh,974,144898847.67
+BR0515,"Udaipur Branch 515",Udaipur,Rajasthan,988,144895608.19
+BR0035,"Chandigarh Branch 35",Chandigarh,Chandigarh,982,144884830.22
+BR0185,"Ahmedabad Branch 185",Ahmedabad,Gujarat,985,144883435.94
+BR0292,"Ahmedabad Branch 292",Ahmedabad,Gujarat,1003,144874433.75
+BR0387,"Jaipur Branch 387",Jaipur,Rajasthan,998,144868331.28
+BR0426,"Chandigarh Branch 426",Chandigarh,Chandigarh,995,144856445.00
+BR0742,"Kota Branch 742",Kota,Rajasthan,977,144844538.88
+BR0166,"Mumbai Branch 166",Mumbai,Maharashtra,988,144821096.41
+BR0697,"Jaipur Branch 697",Jaipur,Rajasthan,987,144818103.45
+BR0949,"Lucknow Branch 949",Lucknow,"Uttar Pradesh",1006,144815303.01
+BR0480,"Bhopal Branch 480",Bhopal,"Madhya Pradesh",980,144808084.93
+BR0832,"Bhopal Branch 832",Bhopal,"Madhya Pradesh",1001,144805646.50
+BR0398,"Bengaluru Branch 398",Bengaluru,Karnataka,979,144798406.78
+BR0821,"Indore Branch 821",Indore,"Madhya Pradesh",970,144792356.57
+BR0866,"Chandigarh Branch 866",Chandigarh,Chandigarh,952,144792180.76
+BR0519,"Chandigarh Branch 519",Chandigarh,Chandigarh,964,144766073.72
+BR0704,"Alwar Branch 704",Alwar,Rajasthan,981,144759307.57
+BR0752,"Jaipur Branch 752",Jaipur,Rajasthan,969,144732077.29
+BR0029,"Lucknow Branch 29",Lucknow,"Uttar Pradesh",998,144728374.62
+BR0897,"Alwar Branch 897",Alwar,Rajasthan,1000,144698881.21
+BR0115,"Indore Branch 115",Indore,"Madhya Pradesh",1005,144668631.89
+BR0684,"Hyderabad Branch 684",Hyderabad,Telangana,984,144627244.77
+BR0024,"Jaipur Branch 24",Jaipur,Rajasthan,977,144624396.08
+BR0635,"Surat Branch 635",Surat,Gujarat,1003,144609980.70
+BR0254,"Kota Branch 254",Kota,Rajasthan,962,144597444.27
+BR0514,"Alwar Branch 514",Alwar,Rajasthan,1000,144535708.37
+BR0799,"Lucknow Branch 799",Lucknow,"Uttar Pradesh",985,144483096.98
+BR0597,"Alwar Branch 597",Alwar,Rajasthan,1000,144470885.00
+BR0241,"Surat Branch 241",Surat,Gujarat,982,144456211.13
+BR0101,"Chandigarh Branch 101",Chandigarh,Chandigarh,988,144440846.45
+BR0528,"Hyderabad Branch 528",Hyderabad,Telangana,973,144438122.20
+BR0461,"Delhi Branch 461",Delhi,Delhi,971,144434503.37
+BR0279,"Kota Branch 279",Kota,Rajasthan,1014,144409540.02
+BR0775,"Udaipur Branch 775",Udaipur,Rajasthan,965,144397890.47
+BR0958,"Hyderabad Branch 958",Hyderabad,Telangana,968,144361673.87
+BR0183,"Mumbai Branch 183",Mumbai,Maharashtra,980,144353320.62
+BR0048,"Delhi Branch 48",Delhi,Delhi,984,144346721.98
+BR0217,"Bengaluru Branch 217",Bengaluru,Karnataka,976,144345537.01
+BR0835,"Chennai Branch 835",Chennai,"Tamil Nadu",1011,144307032.66
+BR0720,"Surat Branch 720",Surat,Gujarat,1000,144302773.79
+BR0646,"Udaipur Branch 646",Udaipur,Rajasthan,996,144279855.97
+BR0265,"Kolkata Branch 265",Kolkata,"West Bengal",996,144270793.82
+BR0350,"Jaipur Branch 350",Jaipur,Rajasthan,1011,144265130.28
+BR0116,"Kota Branch 116",Kota,Rajasthan,953,144255854.08
+BR0705,"Lucknow Branch 705",Lucknow,"Uttar Pradesh",976,144248872.53
+BR0158,"Udaipur Branch 158",Udaipur,Rajasthan,992,144240177.22
+BR0806,"Hyderabad Branch 806",Hyderabad,Telangana,995,144229077.22
+BR0227,"Lucknow Branch 227",Lucknow,"Uttar Pradesh",994,144200219.29
+BR0740,"Chennai Branch 740",Chennai,"Tamil Nadu",1015,144173975.59
+BR0873,"Delhi Branch 873",Delhi,Delhi,974,144146520.77
+BR0284,"Chandigarh Branch 284",Chandigarh,Chandigarh,970,144136420.67
+BR0464,"Bengaluru Branch 464",Bengaluru,Karnataka,963,144123050.67
+BR0078,"Ahmedabad Branch 78",Ahmedabad,Gujarat,984,144112643.64
+BR0961,"Lucknow Branch 961",Lucknow,"Uttar Pradesh",987,144087367.54
+BR0535,"Lucknow Branch 535",Lucknow,"Uttar Pradesh",997,144081416.06
+BR0723,"Ahmedabad Branch 723",Ahmedabad,Gujarat,997,144063980.55
+BR0764,"Alwar Branch 764",Alwar,Rajasthan,980,144054116.28
+BR0140,"Pune Branch 140",Pune,Maharashtra,970,144045560.37
+BR0406,"Bengaluru Branch 406",Bengaluru,Karnataka,996,144042642.40
+BR0647,"Chandigarh Branch 647",Chandigarh,Chandigarh,974,144016420.10
+BR0575,"Bengaluru Branch 575",Bengaluru,Karnataka,966,144009215.07
+BR0727,"Chandigarh Branch 727",Chandigarh,Chandigarh,965,143996949.61
+BR0504,"Jodhpur Branch 504",Jodhpur,Rajasthan,975,143989533.45
+BR0019,"Indore Branch 19",Indore,"Madhya Pradesh",999,143959400.53
+BR0359,"Jaipur Branch 359",Jaipur,Rajasthan,978,143959391.37
+BR0222,"Chandigarh Branch 222",Chandigarh,Chandigarh,967,143940924.81
+BR0930,"Delhi Branch 930",Delhi,Delhi,971,143928280.39
+BR0573,"Bhopal Branch 573",Bhopal,"Madhya Pradesh",982,143911034.19
+BR0686,"Ahmedabad Branch 686",Ahmedabad,Gujarat,978,143897705.71
+BR0307,"Surat Branch 307",Surat,Gujarat,970,143895628.12
+BR0779,"Alwar Branch 779",Alwar,Rajasthan,970,143890403.99
+BR0354,"Bhopal Branch 354",Bhopal,"Madhya Pradesh",992,143887955.96
+BR0419,"Lucknow Branch 419",Lucknow,"Uttar Pradesh",973,143864629.11
+BR0600,"Kolkata Branch 600",Kolkata,"West Bengal",979,143857151.75
+BR0926,"Ahmedabad Branch 926",Ahmedabad,Gujarat,987,143824455.15
+BR0221,"Mumbai Branch 221",Mumbai,Maharashtra,989,143813076.64
+BR0587,"Indore Branch 587",Indore,"Madhya Pradesh",967,143790218.18
+BR0228,"Jodhpur Branch 228",Jodhpur,Rajasthan,990,143789431.37
+BR0342,"Ahmedabad Branch 342",Ahmedabad,Gujarat,983,143788374.65
+BR0928,"Kolkata Branch 928",Kolkata,"West Bengal",987,143709726.26
+BR0643,"Mumbai Branch 643",Mumbai,Maharashtra,979,143705258.69
+BR0593,"Delhi Branch 593",Delhi,Delhi,972,143700929.63
+BR0492,"Ahmedabad Branch 492",Ahmedabad,Gujarat,986,143680729.06
+BR0845,"Hyderabad Branch 845",Hyderabad,Telangana,994,143667288.69
+BR0757,"Chandigarh Branch 757",Chandigarh,Chandigarh,990,143646556.72
+BR0338,"Bhopal Branch 338",Bhopal,"Madhya Pradesh",961,143620555.77
+BR0128,"Chandigarh Branch 128",Chandigarh,Chandigarh,1004,143610935.66
+BR0253,"Alwar Branch 253",Alwar,Rajasthan,987,143595109.76
+BR0771,"Surat Branch 771",Surat,Gujarat,979,143561527.24
+BR0542,"Alwar Branch 542",Alwar,Rajasthan,989,143560068.74
+BR0270,"Chennai Branch 270",Chennai,"Tamil Nadu",972,143558763.57
+BR0713,"Jaipur Branch 713",Jaipur,Rajasthan,971,143542052.17
+BR0953,"Kolkata Branch 953",Kolkata,"West Bengal",991,143504215.41
+BR0633,"Kota Branch 633",Kota,Rajasthan,980,143434087.17
+BR0943,"Ahmedabad Branch 943",Ahmedabad,Gujarat,949,143427968.28
+BR0691,"Pune Branch 691",Pune,Maharashtra,973,143427210.91
+BR0561,"Bengaluru Branch 561",Bengaluru,Karnataka,1008,143426012.50
+BR0910,"Hyderabad Branch 910",Hyderabad,Telangana,966,143420292.72
+BR0076,"Kota Branch 76",Kota,Rajasthan,986,143385116.91
+BR0699,"Pune Branch 699",Pune,Maharashtra,981,143371896.01
+BR0340,"Jaipur Branch 340",Jaipur,Rajasthan,961,143353440.19
+BR0719,"Indore Branch 719",Indore,"Madhya Pradesh",981,143342146.81
+BR0112,"Bhopal Branch 112",Bhopal,"Madhya Pradesh",960,143327270.90
+BR0892,"Bengaluru Branch 892",Bengaluru,Karnataka,978,143326261.35
+BR0505,"Udaipur Branch 505",Udaipur,Rajasthan,983,143306269.06
+BR0256,"Chandigarh Branch 256",Chandigarh,Chandigarh,1002,143300263.38
+BR0842,"Indore Branch 842",Indore,"Madhya Pradesh",965,143278097.19
+BR0884,"Chennai Branch 884",Chennai,"Tamil Nadu",1007,143247269.57
+BR0912,"Jaipur Branch 912",Jaipur,Rajasthan,1000,143240963.98
+BR0548,"Chennai Branch 548",Chennai,"Tamil Nadu",980,143210037.70
+BR0014,"Surat Branch 14",Surat,Gujarat,1018,143207408.08
+BR0465,"Bengaluru Branch 465",Bengaluru,Karnataka,969,143201336.56
+BR0541,"Jodhpur Branch 541",Jodhpur,Rajasthan,982,143175348.30
+BR0337,"Kolkata Branch 337",Kolkata,"West Bengal",957,143155092.70
+BR0156,"Kolkata Branch 156",Kolkata,"West Bengal",985,143145682.29
+BR0445,"Udaipur Branch 445",Udaipur,Rajasthan,980,143106580.97
+BR0154,"Mumbai Branch 154",Mumbai,Maharashtra,963,143081183.15
+BR0117,"Surat Branch 117",Surat,Gujarat,993,143046915.78
+BR0064,"Udaipur Branch 64",Udaipur,Rajasthan,989,143030039.72
+BR0609,"Hyderabad Branch 609",Hyderabad,Telangana,982,143026145.59
+BR0857,"Alwar Branch 857",Alwar,Rajasthan,1000,143008372.99
+BR0781,"Kota Branch 781",Kota,Rajasthan,1009,142971223.03
+BR0878,"Kolkata Branch 878",Kolkata,"West Bengal",947,142961894.27
+BR0476,"Delhi Branch 476",Delhi,Delhi,1001,142954413.62
+BR0299,"Lucknow Branch 299",Lucknow,"Uttar Pradesh",959,142948781.18
+BR0625,"Bengaluru Branch 625",Bengaluru,Karnataka,977,142929233.45
+BR0137,"Indore Branch 137",Indore,"Madhya Pradesh",983,142899717.37
+BR0811,"Jodhpur Branch 811",Jodhpur,Rajasthan,962,142898903.05
+BR0072,"Jaipur Branch 72",Jaipur,Rajasthan,977,142880782.44
+BR0718,"Lucknow Branch 718",Lucknow,"Uttar Pradesh",975,142867962.01
+BR0358,"Lucknow Branch 358",Lucknow,"Uttar Pradesh",993,142860299.33
+BR0224,"Delhi Branch 224",Delhi,Delhi,983,142856279.67
+BR0418,"Chennai Branch 418",Chennai,"Tamil Nadu",982,142805376.16
+BR0131,"Udaipur Branch 131",Udaipur,Rajasthan,989,142775127.94
+BR0027,"Alwar Branch 27",Alwar,Rajasthan,969,142760313.05
+BR0424,"Udaipur Branch 424",Udaipur,Rajasthan,983,142750157.52
+BR0434,"Hyderabad Branch 434",Hyderabad,Telangana,962,142742742.20
+BR0488,"Alwar Branch 488",Alwar,Rajasthan,944,142727315.01
+BR0780,"Pune Branch 780",Pune,Maharashtra,973,142726449.84
+BR0037,"Lucknow Branch 37",Lucknow,"Uttar Pradesh",978,142721851.44
+BR0246,"Lucknow Branch 246",Lucknow,"Uttar Pradesh",984,142698137.51
+BR0319,"Kota Branch 319",Kota,Rajasthan,970,142688968.15
+BR0062,"Chennai Branch 62",Chennai,"Tamil Nadu",976,142667074.30
+BR0540,"Indore Branch 540",Indore,"Madhya Pradesh",974,142650792.00
+BR0894,"Udaipur Branch 894",Udaipur,Rajasthan,992,142650558.10
+BR0717,"Bengaluru Branch 717",Bengaluru,Karnataka,1002,142641921.91
+BR0088,"Surat Branch 88",Surat,Gujarat,946,142635445.17
+BR0123,"Kota Branch 123",Kota,Rajasthan,977,142585403.88
+BR0651,"Kota Branch 651",Kota,Rajasthan,971,142550188.25
+BR0020,"Kota Branch 20",Kota,Rajasthan,975,142546911.80
+BR0152,"Kota Branch 152",Kota,Rajasthan,1002,142532412.21
+BR0277,"Lucknow Branch 277",Lucknow,"Uttar Pradesh",969,142523649.65
+BR0347,"Indore Branch 347",Indore,"Madhya Pradesh",1000,142494971.37
+BR0610,"Delhi Branch 610",Delhi,Delhi,982,142491140.70
+BR0075,"Surat Branch 75",Surat,Gujarat,981,142470668.31
+BR0903,"Pune Branch 903",Pune,Maharashtra,983,142465945.64
+BR0388,"Chandigarh Branch 388",Chandigarh,Chandigarh,984,142453564.98
+BR0614,"Bhopal Branch 614",Bhopal,"Madhya Pradesh",1001,142429931.07
+BR0102,"Surat Branch 102",Surat,Gujarat,986,142389187.66
+BR0159,"Kolkata Branch 159",Kolkata,"West Bengal",980,142383869.48
+BR0122,"Chennai Branch 122",Chennai,"Tamil Nadu",995,142381552.03
+BR0095,"Chandigarh Branch 95",Chandigarh,Chandigarh,979,142374178.30
+BR0353,"Jodhpur Branch 353",Jodhpur,Rajasthan,980,142353499.97
+BR0268,"Chennai Branch 268",Chennai,"Tamil Nadu",972,142350374.19
+BR0058,"Kota Branch 58",Kota,Rajasthan,970,142348029.14
+BR0545,"Bhopal Branch 545",Bhopal,"Madhya Pradesh",953,142347406.46
+BR0950,"Ahmedabad Branch 950",Ahmedabad,Gujarat,993,142345942.02
+BR0874,"Jaipur Branch 874",Jaipur,Rajasthan,985,142325179.37
+BR0862,"Bhopal Branch 862",Bhopal,"Madhya Pradesh",956,142311361.33
+BR0303,"Indore Branch 303",Indore,"Madhya Pradesh",1006,142228500.86
+BR0212,"Kota Branch 212",Kota,Rajasthan,995,142180976.25
+BR0178,"Udaipur Branch 178",Udaipur,Rajasthan,945,142150466.29
+BR0281,"Bhopal Branch 281",Bhopal,"Madhya Pradesh",974,142149113.71
+BR0135,"Ahmedabad Branch 135",Ahmedabad,Gujarat,988,142140381.28
+BR0980,"Bengaluru Branch 980",Bengaluru,Karnataka,1014,142117345.76
+BR0304,"Jodhpur Branch 304",Jodhpur,Rajasthan,983,142106383.11
+BR0106,"Chandigarh Branch 106",Chandigarh,Chandigarh,966,142051804.41
+BR0283,"Alwar Branch 283",Alwar,Rajasthan,968,142043304.23
+BR0345,"Delhi Branch 345",Delhi,Delhi,988,142038507.54
+BR0005,"Chennai Branch 5",Chennai,"Tamil Nadu",975,142035928.41
+BR0558,"Lucknow Branch 558",Lucknow,"Uttar Pradesh",962,141996663.03
+BR0694,"Chennai Branch 694",Chennai,"Tamil Nadu",970,141984491.85
+BR0567,"Jodhpur Branch 567",Jodhpur,Rajasthan,969,141935017.33
+BR0899,"Indore Branch 899",Indore,"Madhya Pradesh",959,141846267.20
+BR0500,"Surat Branch 500",Surat,Gujarat,993,141838809.47
+BR0433,"Mumbai Branch 433",Mumbai,Maharashtra,988,141799283.31
+BR0379,"Hyderabad Branch 379",Hyderabad,Telangana,994,141772680.16
+BR0460,"Pune Branch 460",Pune,Maharashtra,986,141747974.19
+BR0196,"Chandigarh Branch 196",Chandigarh,Chandigarh,985,141724147.30
+BR0615,"Lucknow Branch 615",Lucknow,"Uttar Pradesh",970,141693618.98
+BR0437,"Pune Branch 437",Pune,Maharashtra,936,141684029.42
+BR0584,"Mumbai Branch 584",Mumbai,Maharashtra,960,141680225.47
+BR0838,"Pune Branch 838",Pune,Maharashtra,971,141667141.31
+BR0707,"Chandigarh Branch 707",Chandigarh,Chandigarh,961,141638849.33
+BR0074,"Bhopal Branch 74",Bhopal,"Madhya Pradesh",941,141562077.73
+BR0901,"Kota Branch 901",Kota,Rajasthan,990,141560021.04
+BR0061,"Hyderabad Branch 61",Hyderabad,Telangana,980,141496734.83
+BR0096,"Indore Branch 96",Indore,"Madhya Pradesh",986,141479071.11
+BR0263,"Surat Branch 263",Surat,Gujarat,974,141437916.03
+BR0517,"Kolkata Branch 517",Kolkata,"West Bengal",961,141432687.61
+BR0344,"Kolkata Branch 344",Kolkata,"West Bengal",976,141421917.52
+BR0240,"Ahmedabad Branch 240",Ahmedabad,Gujarat,949,141383761.50
+BR0556,"Kota Branch 556",Kota,Rajasthan,979,141349345.83
+BR0733,"Kolkata Branch 733",Kolkata,"West Bengal",1002,141322488.86
+BR0626,"Lucknow Branch 626",Lucknow,"Uttar Pradesh",965,141319425.93
+BR0420,"Surat Branch 420",Surat,Gujarat,979,141262799.49
+BR0891,"Lucknow Branch 891",Lucknow,"Uttar Pradesh",981,141228122.73
+BR0917,"Delhi Branch 917",Delhi,Delhi,960,141225418.29
+BR0550,"Kota Branch 550",Kota,Rajasthan,963,141223765.26
+BR0532,"Alwar Branch 532",Alwar,Rajasthan,950,141218572.23
+BR0858,"Bengaluru Branch 858",Bengaluru,Karnataka,968,141213876.52
+BR0198,"Bhopal Branch 198",Bhopal,"Madhya Pradesh",959,141208491.99
+BR0295,"Delhi Branch 295",Delhi,Delhi,984,141151963.95
+BR0960,"Lucknow Branch 960",Lucknow,"Uttar Pradesh",987,141102461.02
+BR0734,"Chennai Branch 734",Chennai,"Tamil Nadu",950,141070943.74
+BR0898,"Chandigarh Branch 898",Chandigarh,Chandigarh,963,141059538.65
+BR0909,"Chennai Branch 909",Chennai,"Tamil Nadu",980,141041498.73
+BR0181,"Lucknow Branch 181",Lucknow,"Uttar Pradesh",977,140992269.74
+BR0915,"Bhopal Branch 915",Bhopal,"Madhya Pradesh",961,140966594.79
+BR0311,"Ahmedabad Branch 311",Ahmedabad,Gujarat,977,140950282.55
+BR0551,"Hyderabad Branch 551",Hyderabad,Telangana,985,140939070.44
+BR0238,"Ahmedabad Branch 238",Ahmedabad,Gujarat,951,140933909.14
+BR0800,"Ahmedabad Branch 800",Ahmedabad,Gujarat,970,140922430.97
+BR0769,"Jodhpur Branch 769",Jodhpur,Rajasthan,982,140916690.03
+BR0204,"Delhi Branch 204",Delhi,Delhi,965,140906329.59
+BR0971,"Chennai Branch 971",Chennai,"Tamil Nadu",944,140875439.51
+BR0522,"Lucknow Branch 522",Lucknow,"Uttar Pradesh",967,140874024.70
+BR0493,"Jodhpur Branch 493",Jodhpur,Rajasthan,979,140871873.91
+BR0050,"Ahmedabad Branch 50",Ahmedabad,Gujarat,965,140700760.50
+BR0789,"Indore Branch 789",Indore,"Madhya Pradesh",956,140678088.11
+BR0745,"Surat Branch 745",Surat,Gujarat,967,140641032.34
+BR0650,"Ahmedabad Branch 650",Ahmedabad,Gujarat,940,140620197.27
+BR0988,"Kolkata Branch 988",Kolkata,"West Bengal",923,140548453.02
+BR0034,"Chennai Branch 34",Chennai,"Tamil Nadu",982,140521565.42
+BR0906,"Jodhpur Branch 906",Jodhpur,Rajasthan,967,140508365.21
+BR0638,"Bengaluru Branch 638",Bengaluru,Karnataka,970,140505462.88
+BR0827,"Alwar Branch 827",Alwar,Rajasthan,974,140466467.14
+BR0393,"Kota Branch 393",Kota,Rajasthan,980,140405716.38
+BR0065,"Hyderabad Branch 65",Hyderabad,Telangana,972,140377814.59
+BR0271,"Kolkata Branch 271",Kolkata,"West Bengal",1025,140374386.89
+BR0632,"Mumbai Branch 632",Mumbai,Maharashtra,969,140301143.94
+BR0368,"Hyderabad Branch 368",Hyderabad,Telangana,945,140266595.04
+BR0566,"Ahmedabad Branch 566",Ahmedabad,Gujarat,975,140233897.45
+BR0079,"Surat Branch 79",Surat,Gujarat,967,140220873.64
+BR0485,"Ahmedabad Branch 485",Ahmedabad,Gujarat,964,140186468.82
+BR0165,"Ahmedabad Branch 165",Ahmedabad,Gujarat,945,140179046.56
+BR0501,"Pune Branch 501",Pune,Maharashtra,954,140124201.55
+BR0427,"Bengaluru Branch 427",Bengaluru,Karnataka,979,139756419.60
+BR0190,"Bhopal Branch 190",Bhopal,"Madhya Pradesh",957,139745680.33
+BR0015,"Surat Branch 15",Surat,Gujarat,952,139736331.03
+BR0351,"Lucknow Branch 351",Lucknow,"Uttar Pradesh",966,139706631.92
+BR0489,"Indore Branch 489",Indore,"Madhya Pradesh",949,139641487.97
+BR0995,"Kolkata Branch 995",Kolkata,"West Bengal",956,139595284.60
+BR0683,"Kolkata Branch 683",Kolkata,"West Bengal",937,139583860.57
+BR0066,"Ahmedabad Branch 66",Ahmedabad,Gujarat,953,139581399.66
+BR0007,"Indore Branch 7",Indore,"Madhya Pradesh",943,139532759.21
+BR0175,"Kolkata Branch 175",Kolkata,"West Bengal",983,139505042.72
+BR0934,"Hyderabad Branch 934",Hyderabad,Telangana,963,139439919.20
+BR0057,"Surat Branch 57",Surat,Gujarat,953,139432938.60
+BR0902,"Chandigarh Branch 902",Chandigarh,Chandigarh,961,139430751.05
+BR0438,"Delhi Branch 438",Delhi,Delhi,978,139383211.64
+BR0315,"Chennai Branch 315",Chennai,"Tamil Nadu",951,139303016.25
+BR0297,"Kolkata Branch 297",Kolkata,"West Bengal",942,139225414.74
+BR0063,"Mumbai Branch 63",Mumbai,Maharashtra,950,139221180.37
+BR0533,"Lucknow Branch 533",Lucknow,"Uttar Pradesh",942,139183854.38
+BR0629,"Lucknow Branch 629",Lucknow,"Uttar Pradesh",986,139121448.75
+BR0834,"Indore Branch 834",Indore,"Madhya Pradesh",948,139120391.25
+BR0348,"Delhi Branch 348",Delhi,Delhi,976,139104023.89
+BR0414,"Ahmedabad Branch 414",Ahmedabad,Gujarat,980,139089367.20
+BR0951,"Alwar Branch 951",Alwar,Rajasthan,970,139017818.52
+BR0080,"Delhi Branch 80",Delhi,Delhi,968,138980618.99
+BR0090,"Lucknow Branch 90",Lucknow,"Uttar Pradesh",949,138978931.60
+BR0091,"Bhopal Branch 91",Bhopal,"Madhya Pradesh",957,138963980.53
+BR0966,"Delhi Branch 966",Delhi,Delhi,954,138958875.66
+BR0709,"Kota Branch 709",Kota,Rajasthan,971,138958735.33
+BR0630,"Delhi Branch 630",Delhi,Delhi,979,138851493.38
+BR0236,"Chandigarh Branch 236",Chandigarh,Chandigarh,956,138692416.35
+BR0325,"Udaipur Branch 325",Udaipur,Rajasthan,949,138673365.95
+BR0984,"Alwar Branch 984",Alwar,Rajasthan,957,138542639.15
+BR0287,"Jaipur Branch 287",Jaipur,Rajasthan,965,138510909.30
+BR0285,"Surat Branch 285",Surat,Gujarat,956,138508101.12
+BR0760,"Chennai Branch 760",Chennai,"Tamil Nadu",966,138506292.89
+BR0613,"Alwar Branch 613",Alwar,Rajasthan,959,138468637.85
+BR0586,"Pune Branch 586",Pune,Maharashtra,972,138362251.43
+BR0483,"Chennai Branch 483",Chennai,"Tamil Nadu",971,138294736.47
+BR0197,"Lucknow Branch 197",Lucknow,"Uttar Pradesh",967,138290345.57
+BR0428,"Mumbai Branch 428",Mumbai,Maharashtra,942,138248873.61
+BR0594,"Jodhpur Branch 594",Jodhpur,Rajasthan,960,138222854.86
+BR0957,"Pune Branch 957",Pune,Maharashtra,932,138182974.53
+BR0211,"Ahmedabad Branch 211",Ahmedabad,Gujarat,944,138181606.77
+BR0665,"Chandigarh Branch 665",Chandigarh,Chandigarh,970,138142313.72
+BR0094,"Hyderabad Branch 94",Hyderabad,Telangana,959,138098328.29
+BR0876,"Lucknow Branch 876",Lucknow,"Uttar Pradesh",975,137887729.20
+BR0373,"Indore Branch 373",Indore,"Madhya Pradesh",941,137767928.54
+BR0251,"Jaipur Branch 251",Jaipur,Rajasthan,955,137759052.89
+BR0539,"Indore Branch 539",Indore,"Madhya Pradesh",961,137727364.72
+BR0773,"Chennai Branch 773",Chennai,"Tamil Nadu",944,137678230.56
+BR0807,"Jaipur Branch 807",Jaipur,Rajasthan,939,137607527.35
+BR0955,"Kolkata Branch 955",Kolkata,"West Bengal",941,137479007.20
+BR0544,"Hyderabad Branch 544",Hyderabad,Telangana,971,137398579.80
+BR0474,"Chandigarh Branch 474",Chandigarh,Chandigarh,970,137369936.80
+BR0484,"Bengaluru Branch 484",Bengaluru,Karnataka,948,137159336.55
+BR0244,"Surat Branch 244",Surat,Gujarat,946,137134900.60
+BR0815,"Kolkata Branch 815",Kolkata,"West Bengal",930,137064020.30
+BR0467,"Kota Branch 467",Kota,Rajasthan,958,136964864.04
+BR0248,"Surat Branch 248",Surat,Gujarat,947,136954094.79
+BR0454,"Chandigarh Branch 454",Chandigarh,Chandigarh,955,136915223.52
+BR0189,"Chandigarh Branch 189",Chandigarh,Chandigarh,914,136698195.00
+BR0453,"Jaipur Branch 453",Jaipur,Rajasthan,957,136654535.82
+BR0321,"Pune Branch 321",Pune,Maharashtra,971,136635948.04
+BR0863,"Pune Branch 863",Pune,Maharashtra,947,136631870.76
+BR0153,"Kolkata Branch 153",Kolkata,"West Bengal",949,136503927.15
+BR0895,"Hyderabad Branch 895",Hyderabad,Telangana,934,136136741.13
+BR0812,"Mumbai Branch 812",Mumbai,Maharashtra,931,136015976.93
+BR0619,"Mumbai Branch 619",Mumbai,Maharashtra,908,135989611.57
+BR0748,"Kolkata Branch 748",Kolkata,"West Bengal",936,135879121.75
+BR0945,"Bhopal Branch 945",Bhopal,"Madhya Pradesh",957,135759920.96
+BR0701,"Bengaluru Branch 701",Bengaluru,Karnataka,937,135718949.17
+BR0546,"Udaipur Branch 546",Udaipur,Rajasthan,924,135624360.13
+BR0774,"Kota Branch 774",Kota,Rajasthan,942,135440107.95
+BR0407,"Alwar Branch 407",Alwar,Rajasthan,939,135352829.33
+BR0818,"Indore Branch 818",Indore,"Madhya Pradesh",949,135250578.80
+BR0981,"Mumbai Branch 981",Mumbai,Maharashtra,926,135199398.08
+BR0880,"Hyderabad Branch 880",Hyderabad,Telangana,909,134893453.63
+BR0447,"Ahmedabad Branch 447",Ahmedabad,Gujarat,930,134878783.94
+BR0316,"Bhopal Branch 316",Bhopal,"Madhya Pradesh",917,134614066.37
+BR0916,"Bengaluru Branch 916",Bengaluru,Karnataka,930,134207234.30
+BR0605,"Pune Branch 605",Pune,Maharashtra,935,134047395.45
+BR0457,"Hyderabad Branch 457",Hyderabad,Telangana,924,133647777.47
+BR0847,"Lucknow Branch 847",Lucknow,"Uttar Pradesh",939,133434815.52
+BR0725,"Pune Branch 725",Pune,Maharashtra,935,133180363.20
+BR0671,"Alwar Branch 671",Alwar,Rajasthan,896,130150220.24
