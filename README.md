@@ -62,17 +62,21 @@ The project is built on a relational banking dataset comprising 6 core cleaned t
 ---
 ## 📊 Dashboard Modules
 ### 1. Executive Overview
+![Executive Overview](Screenshot/page1.png)
 * High-level summary of total deposits (₹317.80B), total loans (₹198.44B), and transaction volume (₹147.22B).
 * Transaction channel distribution: Mobile App (22.25%), ATM (22.20%), UPI (11.09%), Branch (11.07%).
 * 4-year transaction trajectory (2022–2025 surge).
 ### 2. Customer Intelligence & Demographics
+![Customer Intelligence](Screenshot/page2.png)
 * Age segmentation (Core base: 41–60 years with 34.35K customers; under-25 with 10.58K).
 * Gender balance and card type distribution (Debit, Credit, Prepaid).
 * Top deposit-generating accounts and average balance tiering.
 ### 3. Loan Portfolio & Risk Analysis
+![Loan Portfolio](Screenshot/page3.png)
 * Lending exposure across 5 categories: Car, Personal, Business, Education, and Home Loans (~20% distribution each).
 * Identification of default risk hotspots (Portfolio default rate: 16.57%; highest in Home Loans at 16.89% and Education * Loans at 16.84%).
 ### 4. Branch Performance & Operational Intelligence
+![Branch Performance](Screenshot/page4.png)
 * Staffing efficiency (optimized ratio of 10.0 employees per branch).
 * Top cities by total balance led by Lucknow (₹21.69B), Indore (₹19.82B), and Chandigarh (₹19.81B).
 * Compensation and headcount breakdown across designations (Assistant Managers, Managers, Officers, Senior Officers, Clerks, Relationship Managers).
